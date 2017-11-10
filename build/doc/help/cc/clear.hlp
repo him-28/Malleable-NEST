@@ -1,0 +1,10 @@
+Name: clear - Clear the entire stack.
+
+SeeAlso:
+
+pop
+npop
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/slistack.cc

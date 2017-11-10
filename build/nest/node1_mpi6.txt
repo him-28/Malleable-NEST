@@ -1,0 +1,1356 @@
+Welcome to Extrae 3.5.2
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: OMP_NUM_THREADS set to 8
+Extrae: Parsing the configuration file (extrae.xml) begins
+Extrae: Tracing package is located on /apps/BSCTOOLS/extrae/3.5.1/impi_2017_4
+Extrae: Generating intermediate files for Paraver traces.
+Extrae: MPI routines will collect HW counters information.
+Extrae: OpenMP routines will collect HW counters information.
+Extrae: Tracing 3 level(s) of MPI callers: [ 1 2 3 ]
+Extrae: Warning! change-at-time time units not specified. Using seconds
+Extrae: PAPI domain set to ALL for HWC set 1
+Extrae: HWC set 1 contains following counters < PAPI_TOT_INS (0x80000032) PAPI_TOT_CYC (0x8000003b) PAPI_L1_DCM (0x80000000) PAPI_L2_DCM (0x80000002) PAPI_L3_TCM (0x80000008) PAPI_BR_INS (0x80000037) PAPI_BR_MSP (0x8000002e) RESOURCE_STALLS (0x4000002f) > - never changes
+Extrae: Warning! change-at-time time units not specified. Using seconds
+Extrae: PAPI domain set to ALL for HWC set 2
+Extrae: HWC set 2 contains following counters < PAPI_TOT_INS (0x80000032) Extrae: Error! Hardware counter PAPI_FP_INS (0x80000034) is not available. Check set 2.
+PAPI_TOT_CYC (0x8000003b) PAPI_VEC_SP (0x80000069) PAPI_SR_INS (0x80000036) PAPI_LD_INS (0x80000035) > - never changes
+Extrae: Resource usage is disabled at flush buffer.
+Extrae: Memory usage is disabled at flush buffer.
+Extrae: Tracing buffer can hold 5000000 events
+Extrae: Circular buffer disabled.
+Extrae: Sampling buffers will be written at instrumentation points
+Extrae: Dynamic memory instrumentation is disabled.
+Extrae: Basic I/O memory instrumentation is disabled.
+Extrae: System calls instrumentation is disabled.
+Extrae: Parsing the configuration file (extrae.xml) has ended
+Extrae: Intermediate traces will be stored in /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest
+Extrae: Temporal directory (/gpfs/home/bsc15/bsc15982/nest-simulator/change/nest) is shared among processes.
+Extrae: Final directory (/gpfs/home/bsc15/bsc15982/nest-simulator/change/nest) is shared among processes.
+Extrae: Tracing mode is set to: Detail.
+Extrae: Successfully initiated with 6 tasks and 8 threads
+
+[INFO] [2017.11.9 11:30:41 [INFO] [/home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [INFO] [[INFO] [[2017.2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+
+2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.11.9 11:30:41 Trying to set num threads: 1
+Trying to set num threads: 1
+/home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+[INFO] [2017.11.9 11:30:41 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+NEST v2.12.0 (C) 2004 The NEST Initiative
+NEST v2.12.0 (C) 2004 The NEST Initiative
+NEST v2.12.0 (C) 2004 The NEST Initiative
+NEST v2.12.0 (C) 2004 The NEST Initiative
+NEST v2.12.0 (C) 2004 The NEST Initiative
+NEST v2.12.0 (C) 2004 The NEST Initiative
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+ cleared and parameters reset.
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+Trying to set num threads: 8
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+2 9722044 # virt_mem_0
+2 9722044 # virt_mem_0
+Trying to set num threads: 8
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+3 9722044 # virt_mem_0
+3 9722044 # virt_mem_0
+Trying to set num threads: 8
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Nov 09 11:30:41 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating inhibitory population.
+
+Nov 09 11:30:41 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Nov 09 11:30:41 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Nov 09 11:30:41 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating inhibitory population.
+Trying to set num threads: 1
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating inhibitory population.
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+0 9722044 # virt_mem_0
+0 9722044 # virt_mem_0
+Trying to set num threads: 8
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+1 9722044 # virt_mem_0
+1 9722044 # virt_mem_0
+Trying to set num threads: 8
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+4 9722044 # virt_mem_0
+4 9722044 # virt_mem_0
+Trying to set num threads: 8
+
+Nov 09 11:30:41 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Nov 09 11:30:41 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Nov 09 11:30:41 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Nov 09 11:30:41 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating inhibitory population.
+
+Nov 09 11:30:41 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating inhibitory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+
+Nov 09 11:30:41 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Nov 09 11:30:41 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating inhibitory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI f
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    S
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function Get
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function GetNodes_i_D_b_b is deprecated in NEST 3.unction GetNodes_i_D_b_b is deprecated in NEST 3.0.
+LI function GetNodes_i_D_b_b is deprecated in NEST 3.0.
+Nodes_i_D_b_b is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function GetNodes_i_D_b_b is deprecated in NEST 3.0.
+0.
+
+Nov 09 11:30:41 SLIInterpreter [Deprecated]: 
+    SLI function GetNodes_i_D_b_b is deprecated in NEST 3.0.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]:  to file and to memory.
+
+
+    Data will be recorded to file and to memory.
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and t
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to meo memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+mory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data wil    Data will be recorded to fill be recorded to file and to memoe and to memory.
+ry.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    D
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to fi
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+le and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Dataata will be recorded to file and to mem
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to will be recorded to file and to memory.
+ory.
+ file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be reco
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be reco
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+rded to file and to memory.
+rded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+2 9768676 # virt_mem_after_nodes
+4 9768676 # virt_mem_after_nodes
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to f2 9768676 # virt_mem_after_nodes
+4 9768676 # virt_mem_after_nodes
+ile and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+4 0.12 # build_time_nodes
+4 0.12 # build_time_nodes
+2 0.22 # build_time_nodes
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to m2 0.22 # build_time_nodes
+emory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to0 9768676 # virt_mem_after_nodes file and to memory.
+
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to fil0 9768676 # virt_mem_after_nodes
+e and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+0 0.15 # build_time_nodes
+0 0.15 # build_time_nodes
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+3 9768676 # virt_mem_after_nodes
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+3 9768676 # virt_mem_after_nodes
+3 0.21 # build_time_nodes
+3 0.21 # build_time_nodes
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be reco
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be rrded to file and to memory.
+ecorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file a
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded nd to memory.
+to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recor
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data wded to file and to memory.
+ill be recorded to file and to memory
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded t.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+o file and to memory.
+    Data will be recorded to file and t
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to memory.
+o file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Nov 09 11:30:41 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+1 9768676 # virt_mem_after_nodes
+1 9768676 # virt_mem_after_nodes
+1 0.14 # build_time_nodes
+1 0.14 # build_time_nodes
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+
+Nov 09 11:30:41 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Nov 09 11:30:54 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Nov 09 11:30:54 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Nov 09 11:30:54 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Nov 09 11:30:54 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Nov 09 11:30:54 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Nov 09 11:30:54 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Nov 09 11:30:56 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Nov 09 11:30:56 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Nov 09 11:30:56 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Nov 09 11:30:56 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Nov 09 11:30:57 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Nov 09 11:30:57 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Nov 09 11:31:01 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Nov 09 11:31:01 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Nov 09 11:31:01 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Nov 09 11:31:01 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Nov 09 11:31:01 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Nov 09 11:31:01 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Nov 09 11:31:02 BuildNetwork [Info]: 
+    Connecting spike detectors.
+3 20.68 # build_edge_time 
+3 20.68 # build_edge_time 
+3 16589568 # virt_mem_after_edges
+3 16589568 # virt_mem_after_edges
+
+Nov 09 11:31:02 BuildNetwork [Info]: 
+    Connecting spike detectors.
+0 20.75 # build_edge_time 
+0 20.75 # build_edge_time 
+0 16590100 # virt_mem_after_edges
+0 16590100 # virt_mem_after_edges
+
+Nov 09 11:31:02 BuildNetwork [Info]: 
+    Connecting spike detectors.
+
+Nov 09 11:31:02 BuildNetwork [Info]: 
+    Connecting spike detectors.
+4 20.87 # build_edge_time 
+4 20.87 # build_edge_time 
+4 16590428 # virt_mem_after_edges
+4 16590428 # virt_mem_after_edges
+
+Nov 09 11:31:02 BuildNetwork [Info]: 
+    Connecting spike detectors.
+2 20.97 # build_edge_time 
+2 20.97 # build_edge_time 
+2 16589968 # virt_mem_after_edges
+2 16589968 # virt_mem_after_edges
+
+Nov 09 11:31:02 BuildNetwork [Info]: 
+    Connecting spike detectors.
+1 21.04 # build_edge_time 
+1 21.04 # build_edge_time 
+1 16589872 # virt_mem_after_edges
+1 16589872 # virt_mem_after_edges
+
+Nov 09 11:31:02 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:02 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:02 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:02 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:02 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:02 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:02 SimulationManager::run [Warning]: 
+    The
+Nov 09 11:31:02 SimulationManager::run [Warning]: 
+    The requested simulation time is 
+Nov 09 11:31:02 SimulationManager::run [Warning]: 
+    The requested simulation time is not an inte requested simulation time is not an integer multiple of th
+Nov 09 11:31:02 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    del
+Nov 09 11:31:02 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This m
+Nov 09 11:31:02 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This may result inot an integer multiple of the minimal 
+    delay in the network. This may result in inconsistent results under ger multiple of the minimal 
+    delay in the network. This may result in inconsistent results under the 
+    following e minimal 
+    delay in the network. This may result in inconsistent results under the 
+    following conditay in the network. This may result in inconsistent results under the 
+    following conditions: (i) A netay result in inconsistent results under the 
+    following conditions: (i) A network contain inconsistent results under the 
+    following conditions: (i) A network contains more thanthe 
+    following conditions: (i) A network contains more than one source of 
+    randomnessconditions: (i) A network contains more than one source of 
+    randomness, e.g., two differeions: (i) A network contains more than one source of 
+    randomness, e.g., two different work contains more than one source of 
+    randomness, e.g., two different poisson_generans more than one source of 
+    randomness, e.g., two different poisson_generators, and (ii)  one source of 
+    randomness, e.g., two different poisson_generators, and (ii) Si, e.g., two different poisson_generators, and (ii) Simulate is 
+    called repeatent poisson_generators, and (ii) Simulate is 
+    called repeatedly with simulation times thapoisson_generators, and (ii) Simulate is 
+    called repeatedly with simulation times that are nottors, and (ii) Simulate is 
+    called repeatedly with simulation times that are not multiples of the 
+    miSimulate is 
+    called repeatedly with simulation times that are not multiples of the 
+    minimal delay.
+mulate is 
+    called repeatedly with simulation times that are not multiples of the 
+    minidly with simulation times that are not multiples of the 
+    minimal delay.
+t are not multiples of the 
+    minimal delay.
+ multiples of the 
+    minimal delay.
+nimal delay.
+
+Nov 09 11:31:02 SimulationManager::start_updating_ [Info]: 
+    mal delay.
+
+Nov 09 11:31:02 SimulationManager::start_updating_ [Info]: 
+Nov 09 11:31:02 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    Simulaton t
+Nov 09 11:31:02 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    SNumber of local nodes: 18774
+    Simulaton time (ms): 50
+    Numbe
+Nov 09 11:31:02 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    Simulaton time (ms): 50
+    Number of OpenMP threads: 8
+    Number of local nodes: 18774
+    Simulaton time (ms): 50
+    Number of OpenMP threads
+Nov 09 11:31:02 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    Simulaton time (ms): 50
+    Number of OpenMP threads: 8
+    Number oime (ms): 50
+    Number of OpenMP threads: 8
+    Number of MPI processes: 6
+imulaton time (ms): 50
+    Number of OpenMP threads: 8
+    Number of MPI processes: 6
+r of OpenMP threads: 8
+    Number of MPI processes: 6
+
+    Number of MPI processes: 6
+: 8
+    Number of MPI processes: 6
+f MPI processes: 6
+
+Nov 09 11:31:04 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+Nov 09 11:31:04 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+
+Nov 09 11:31:04 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+Nov 09 11:31:04 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+Nov 09 11:31:04 SimulationManager::resume [Info]: 
+    Simulation finished.
+Nov 09 11:31:04 SimulationManager::resume [Info]: 
+    Simulation finished.
+0 16590100 # virt_mem_after_presim
+12 16589968 # virt_mem_after_presim
+2 1.64 # presim_time
+0 16590100 # virt_mem_after_presim
+0 1.86 # presim_time
+0 1.86 # presim_time
+2 16589968 # virt_mem_after_presim
+2 1.64 # presim_time
+ 16589872 # virt_mem_after_presim
+1 16589872 # virt_mem_after_presim
+1 1.57 # presim_time
+1 1.57 # presim_time
+3 16589568 # virt_mem_after_presim
+43 16589568 # virt_mem_after_presim
+3 1.94 # presim_time
+3 1.94 # presim_time
+ 16590428 # virt_mem_after_presim
+4 16590428 # virt_mem_after_presim
+4 1.75 # presim_time
+4 1.75 # presim_time
+
+Nov 09 11:31:04 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774
+Nov 09 11:31:04 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:04 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+
+Nov 09 11:31:04 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+Nov 09 11:31:04 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+ nodes for simulation.
+Nov 09 11:31:04 NodeManager::prepare_nodes [Info]: 
+    Preparing 18774 nodes for simulation.
+
+
+Nov 09 11:31:04 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minim
+Nov 09 11:31:04 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    d
+Nov 09 11:31:04 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in th
+Nov 09 11:31:04 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This may result i
+Nov 09 11:31:04 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This may result in inconsistent results under the 
+    al 
+    delay in the network. This may result in inconsistent results under the 
+    following conditions: (i) Aelay in the network. This may result in inconsistent results under the 
+    following conditions: (i) A network contae network. This may result in inconsistent results under the 
+    following conditions: (i) A network contain inconsistent results under the 
+    following conditions: (i) A network contains more than one soufollowing conditions: (i) A network contains more than one source of 
+    randomnes network contains more than one source of 
+    randomness, e.g., two differins more than one source of 
+    randomness, e.g., two different poisson_gens more than one source of 
+    randomness, e.g., two different porce of 
+    randomness, e.g., two different poisson_generators, ans, e.g., two different poisson_generators, and (ii) Simulate is 
+    cent poisson_generators, and (ii) Simulate is 
+    called repeatedly with snerators, and (ii) Simulate is 
+    called repeatedly with simulation times thatisson_generators, and (ii) Simulate is 
+    called repeatedly with simd (ii) Simulate is 
+    called repeatedly with simulation times that aalled repeatedly with simulation times that are not multiples of the 
+    miimulation times that are not multiples of the 
+    minimal delay.
+ are not multiples of the 
+    minimal delay.
+ulation times that are not multiples of the 
+    minimal delay.
+re not multiples of the 
+    minimal delay.
+nimal delay.
+
+Nov 09 11:31:04 SimulationManager::start_updating_ [Info]: 
+    
+Nov 09 11:31:04 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 1
+Nov 09 11:31:04 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    Simulato
+Nov 09 11:31:04 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    SNumber of local nodes: 18774
+    Simulaton time (ms): 2508774
+    Simulaton time (ms): 250
+    Number of OpenMP threadsn time (ms): 250
+    Number of OpenMP threads: 8
+    Number of M
+Nov 09 11:31:04 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    Simulaton time (ms): 250
+    Number of OpenMimulaton time (ms): 250
+    Number of OpenMP threads: 8
+    Number of M
+    Number of OpenMP threads: 8
+    Number of MPI processes: 6
+: 8
+    Number of MPI processes: 6
+PI processes: 6
+P threads: 8
+    Number of MPI processes: 6
+PI processes: 6
+Nov 09 11:31:04 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This may result in inconsistent results under the 
+    following conditions: (i) A network contains more than one source of 
+    randomness, e.g., two different poisson_generators, and (ii) Simulate is 
+    called repeatedly with simulation times that are not multiples of the 
+    minimal delay.
+
+Nov 09 11:31:04 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 18774
+    Simulaton time (ms): 250
+    Number of OpenMP threads: 8
+    Number of MPI processes: 6
+
+Nov 09 11:31:16 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+Nov 09 11:31:16 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+
+Nov 09 11:31:16 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+Nov 09 11:31:16 SimulationManager::resume [Info]: 
+    Simulation finished.
+
+Nov 09 11:31:16 SimulationManager::resume [Info]: 
+    Simulation finished.
+Nov 09 11:31:16 SimulationManager::resume [Info]: 
+    Simulation finished.
+42 16589968 # virt_mem_after_sim
+2 16589968 # virt_mem_after_sim
+22 12.16 # sim_time
+ 12.16 # sim_time
+3 16590428 # virt_mem_after_sim
+4 12.15 # sim_time
+4 16590428 # virt_mem_after_sim
+4 12.15 # sim_time
+02 50.976 # average rate
+ 16589568 # virt_mem_after_sim
+2 50.976 # average rate
+3 16589568 # virt_mem_after_sim
+3 12.15 # sim_time
+3 12.15 # sim_time
+ 16590100 # virt_mem_after_sim
+0 12.16 # sim_time
+1 16589872 # virt_mem_after_sim
+4 51.168 # average rate
+0 16590100 # virt_mem_after_sim
+0 12.16 # sim_time
+1 16589872 # virt_mem_after_sim
+1 4 51.168 # average rate
+1 12.16 # sim_time
+12.16 # sim_time
+3 51.288 # average rate01 51.936 # average rate
+1 51.936 # average rate
+
+3 51.288 # average rate
+ 51.768 # average rate
+0 51.768 # average rate
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000000.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000000.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000000.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000000.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000000.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000000.mpit
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000000.sym
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000000.sym
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000000.sym
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000000.sym
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000000.sym
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000000.sym
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000007.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000007.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000007.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000007.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000007.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000007.mpit
+Extrae: Deallocating memory.
+Extrae: Application has ended. Tracing has been terminated.
+Extrae: Proceeding with the merge of the intermediate tracefiles.
+Extrae: Waiting for all tasks to reach the checkpoint.
+Extrae: Executing the merge process (using /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/TRACE.mpits).
+merger: Extrae 3.5.2
+mpi2prv: Tree order is set to 16 but is larger that numtasks. Setting tree order to 6
+mpi2prv: Assigned nodes < s21r2b22, s21r2b22, s21r2b22, s21r2b22, s21r2b22, s21r2b22 >
+mpi2prv: Assigned size per processor < 1 Mbytes, 1 Mbytes, 1 Mbytes, 1 Mbytes, 1 Mbytes, 1 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000000.mpit is object 1.1.1 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000001.mpit is object 1.1.2 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000002.mpit is object 1.1.3 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000003.mpit is object 1.1.4 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000004.mpit is object 1.1.5 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000005.mpit is object 1.1.6 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000006.mpit is object 1.1.7 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273030000000000007.mpit is object 1.1.8 on node s21r2b22 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000000.mpit is object 1.2.1 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000001.mpit is object 1.2.2 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000002.mpit is object 1.2.3 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000003.mpit is object 1.2.4 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000004.mpit is object 1.2.5 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000005.mpit is object 1.2.6 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000006.mpit is object 1.2.7 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273031000001000007.mpit is object 1.2.8 on node s21r2b22 assigned to processor 1
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000000.mpit is object 1.3.1 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000001.mpit is object 1.3.2 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000002.mpit is object 1.3.3 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000003.mpit is object 1.3.4 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000004.mpit is object 1.3.5 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000005.mpit is object 1.3.6 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000006.mpit is object 1.3.7 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273032000002000007.mpit is object 1.3.8 on node s21r2b22 assigned to processor 2
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000000.mpit is object 1.4.1 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000001.mpit is object 1.4.2 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000002.mpit is object 1.4.3 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000003.mpit is object 1.4.4 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000004.mpit is object 1.4.5 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000005.mpit is object 1.4.6 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000006.mpit is object 1.4.7 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273033000003000007.mpit is object 1.4.8 on node s21r2b22 assigned to processor 3
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000000.mpit is object 1.5.1 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000001.mpit is object 1.5.2 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000002.mpit is object 1.5.3 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000003.mpit is object 1.5.4 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000004.mpit is object 1.5.5 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000005.mpit is object 1.5.6 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000006.mpit is object 1.5.7 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273034000004000007.mpit is object 1.5.8 on node s21r2b22 assigned to processor 4
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000000.mpit is object 1.6.1 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000001.mpit is object 1.6.2 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000002.mpit is object 1.6.3 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000003.mpit is object 1.6.4 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000004.mpit is object 1.6.5 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000005.mpit is object 1.6.6 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000006.mpit is object 1.6.7 on node s21r2b22 assigned to processor 5
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s21r2b22.0000273035000005000007.mpit is object 1.6.8 on node s21r2b22 assigned to processor 5
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Enabling Time Synchronization (Node).
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Processor 4 succeeded to translate its assigned files
+mpi2prv: Processor 1 succeeded to translate its assigned files
+mpi2prv: Processor 2 succeeded to translate its assigned files
+mpi2prv: Processor 3 succeeded to translate its assigned files
+mpi2prv: Processor 5 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Gathering addresses across processors... done
+mpi2prv: Elapsed time broadcasting and sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Starting the distribution of foreign receives.
+mpi2prv: Processor 0 is storing 0 foreign receives (0 Kbytes) for the next phase.
+mpi2prv: Ended the distribution of foreign receives.
+mpi2prv: Sharing information < MPImpi2prv: Processor 1 is storing 0 foreign receives (0 Kbytes) for the next phase.
+mpi2prv: Processor 2 is storing 0 foreign receives (0 Kbytes) for the next phase.
+mpi2prv: Processor 3 is storing 0 foreign receives (0 Kbytes) for the next phase.
+mpi2prv: Processor 4 is storing 0 foreign receives (0 Kbytes) for the next phase.
+mpi2prv: Processor 5 is storing 0 foreign receives (0 Kbytes) for the next phase.
+ OpenMP pthread CUDA HWC MISC callers files >
+mpi2prv: Elapsed time sharing communications: 0 hours 0 minutes 0 seconds
+mpi2prv: Sharing thread accounting information for ptask 0 done
+mpi2prv: Merge tree depth for 6 tasks is 1 levels using a fan-out of 6 leaves
+mpi2prv: Executing merge tree step 1 of 1.
+mpi2prv: Generating tracefile (intermediate buffers of 79890 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time on tree step 1: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 9257074 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! nest.prv has been generated.
+	Command being timed: "./nest hpc_benchmark.sli"
+	User time (seconds): 255.54
+	System time (seconds): 10.27
+	Percent of CPU this job got: 732%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7232088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4406099
+	Voluntary context switches: 646706
+	Involuntary context switches: 986
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark.sli"
+	User time (seconds): 256.70
+	System time (seconds): 9.87
+	Percent of CPU this job got: 734%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7232632
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4596953
+	Voluntary context switches: 603649
+	Involuntary context switches: 1008
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark.sli"
+	User time (seconds): 257.49
+	System time (seconds): 10.46
+	Percent of CPU this job got: 738%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7229604
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5053368
+	Voluntary context switches: 639400
+	Involuntary context switches: 782
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark.sli"
+	User time (seconds): 256.47
+	System time (seconds): 10.51
+	Percent of CPU this job got: 735%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7230996
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5013703
+	Voluntary context switches: 645540
+	Involuntary context switches: 687
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark.sli"
+	User time (seconds): 254.61
+	System time (seconds): 10.13
+	Percent of CPU this job got: 729%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7232248
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4939086
+	Voluntary context switches: 593468
+	Involuntary context switches: 739
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark.sli"
+	User time (seconds): 254.66
+	System time (seconds): 10.02
+	Percent of CPU this job got: 728%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7227956
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4846238
+	Voluntary context switches: 592509
+	Involuntary context switches: 1080
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 13800
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

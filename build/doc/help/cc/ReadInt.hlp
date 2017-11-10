@@ -1,0 +1,16 @@
+Name: ReadInt - Read an integer number from an input stream.
+
+Synopsis:
+
+istream ReadInt -> istream int true 
+-> istream false
+
+
+SeeAlso:
+
+ReadDouble
+ReadWord
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/sli_io.cc

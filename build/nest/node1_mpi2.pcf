@@ -1,0 +1,494 @@
+DEFAULT_OPTIONS
+
+LEVEL               THREAD
+UNITS               NANOSEC
+LOOK_BACK           100
+SPEED               1
+FLAG_ICONS          ENABLED
+NUM_OF_STATE_COLORS 1000
+YMAX_SCALE          37
+
+
+DEFAULT_SEMANTIC
+
+THREAD_FUNC          State As Is
+
+
+STATES
+0    Idle
+1    Running
+2    Not created
+3    Waiting a message
+4    Blocking Send
+5    Synchronization
+6    Test/Probe
+7    Scheduling and Fork/Join
+8    Wait/WaitAll
+9    Blocked
+10    Immediate Send
+11    Immediate Receive
+12    I/O
+13    Group Communication
+14    Tracing Disabled
+15    Others
+16    Send Receive
+17    Memory transfer
+18    Profiling
+19    On-line analysis
+20    Remote memory access
+21    Atomic memory operation
+22    Memory ordering operation
+23    Distributed locking
+24    Overhead
+25    One-sided op
+26    Startup latency
+27    Waiting links
+28    Data copy
+29    RTT
+30    Allocating memory
+31    Freeing memory
+
+
+STATES_COLOR
+0    {117,195,255}
+1    {0,0,255}
+2    {255,255,255}
+3    {255,0,0}
+4    {255,0,174}
+5    {179,0,0}
+6    {0,255,0}
+7    {255,255,0}
+8    {235,0,0}
+9    {0,162,0}
+10    {255,0,255}
+11    {100,100,177}
+12    {172,174,41}
+13    {255,144,26}
+14    {2,255,177}
+15    {192,224,0}
+16    {66,66,66}
+17    {255,0,96}
+18    {169,169,169}
+19    {169,0,0}
+20    {0,109,255}
+21    {200,61,68}
+22    {200,66,0}
+23    {0,41,0}
+24    {139,121,177}
+25    {116,116,116}
+26    {200,50,89}
+27    {255,171,98}
+28    {0,68,189}
+29    {52,43,0}
+30    {255,46,0}
+31    {100,216,32}
+
+
+EVENT_TYPE
+9   50000002    MPI Collective Comm
+VALUES
+17   MPI_Allgather
+18   MPI_Allgatherv
+8   MPI_Barrier
+0   Outside MPI
+
+
+EVENT_TYPE
+9   50000003    MPI Other
+VALUES
+19   MPI_Comm_rank
+20   MPI_Comm_size
+32   MPI_Finalize
+31   MPI_Init
+0   Outside MPI
+
+
+EVENT_TYPE
+1    50100001    Send Size in MPI Global OP
+1    50100002    Recv Size in MPI Global OP
+1    50100003    Root in MPI Global OP
+1    50100004    Communicator in MPI Global OP
+
+
+EVENT_TYPE
+0 60000001  Parallel (OMP)
+VALUES
+0 close
+1 DO (open)
+2 SECTIONS (open)
+3 REGION (open)
+
+EVENT_TYPE
+0    60000018    Executed OpenMP parallel function
+VALUES
+0   End
+1 Unresolved
+2 _NOT_Found
+3 nest::Co..ections_ [nest::ConnectionManager::delete_connections_]
+4 nest::Mo..efaults_ [nest::ModelManager::set_synapse_defaults_]
+5 nest::Al..connect_ [nest::AllToAllBuilder::connect_]
+6 nest::Fi..connect_ [nest::FixedInDegreeBuilder::connect_]
+7 nest::No..re_nodes [nest::NodeManager::prepare_nodes]
+8 nest::Si..:update_ [nest::SimulationManager::update_]
+9 nest::No..ze_nodes [nest::NodeManager::finalize_nodes]
+
+
+EVENT_TYPE
+0    60000118    Executed OpenMP parallel function line and file
+VALUES
+0   End
+1 0 (Unresolved)
+2 0 (_NOT_Found)
+3 0 (conn_builder.cpp, libnestkernel.so)
+4 0 (conn_builder.cpp, libnestkernel.so)
+5 0 (conn_builder.cpp, libnestkernel.so)
+6 0 (conn_builder.cpp, libnestkernel.so)
+7 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+8 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+9 0 (model_manager.cpp, libnestkernel.so)
+10 0 (model_manager.cpp, libnestkernel.so)
+11 0 (node_manager.cpp, libnestkernel.so)
+12 0 (node_manager.cpp, libnestkernel.so)
+13 0 (node_manager.cpp, libnestkernel.so)
+14 0 (node_manager.cpp, libnestkernel.so)
+15 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+16 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+17 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+18 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+19 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+20 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+
+
+EVENT_TYPE
+0    60000023    Executed OpenMP task function
+VALUES
+0   End
+1 Unresolved
+2 _NOT_Found
+3 nest::Co..ections_ [nest::ConnectionManager::delete_connections_]
+4 nest::Mo..efaults_ [nest::ModelManager::set_synapse_defaults_]
+5 nest::Al..connect_ [nest::AllToAllBuilder::connect_]
+6 nest::Fi..connect_ [nest::FixedInDegreeBuilder::connect_]
+7 nest::No..re_nodes [nest::NodeManager::prepare_nodes]
+8 nest::Si..:update_ [nest::SimulationManager::update_]
+9 nest::No..ze_nodes [nest::NodeManager::finalize_nodes]
+
+
+EVENT_TYPE
+0    60000123    Executed OpenMP task function line and file
+VALUES
+0   End
+1 0 (Unresolved)
+2 0 (_NOT_Found)
+3 0 (conn_builder.cpp, libnestkernel.so)
+4 0 (conn_builder.cpp, libnestkernel.so)
+5 0 (conn_builder.cpp, libnestkernel.so)
+6 0 (conn_builder.cpp, libnestkernel.so)
+7 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+8 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+9 0 (model_manager.cpp, libnestkernel.so)
+10 0 (model_manager.cpp, libnestkernel.so)
+11 0 (node_manager.cpp, libnestkernel.so)
+12 0 (node_manager.cpp, libnestkernel.so)
+13 0 (node_manager.cpp, libnestkernel.so)
+14 0 (node_manager.cpp, libnestkernel.so)
+15 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+16 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+17 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+18 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+19 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+20 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+
+
+EVENT_TYPE
+0    60000024    Instantiated OpenMP task function
+VALUES
+0   End
+1 Unresolved
+2 _NOT_Found
+3 nest::Co..ections_ [nest::ConnectionManager::delete_connections_]
+4 nest::Mo..efaults_ [nest::ModelManager::set_synapse_defaults_]
+5 nest::Al..connect_ [nest::AllToAllBuilder::connect_]
+6 nest::Fi..connect_ [nest::FixedInDegreeBuilder::connect_]
+7 nest::No..re_nodes [nest::NodeManager::prepare_nodes]
+8 nest::Si..:update_ [nest::SimulationManager::update_]
+9 nest::No..ze_nodes [nest::NodeManager::finalize_nodes]
+
+
+EVENT_TYPE
+0    60000124    Instantiated OpenMP task function line and file
+VALUES
+0   End
+1 0 (Unresolved)
+2 0 (_NOT_Found)
+3 0 (conn_builder.cpp, libnestkernel.so)
+4 0 (conn_builder.cpp, libnestkernel.so)
+5 0 (conn_builder.cpp, libnestkernel.so)
+6 0 (conn_builder.cpp, libnestkernel.so)
+7 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+8 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+9 0 (model_manager.cpp, libnestkernel.so)
+10 0 (model_manager.cpp, libnestkernel.so)
+11 0 (node_manager.cpp, libnestkernel.so)
+12 0 (node_manager.cpp, libnestkernel.so)
+13 0 (node_manager.cpp, libnestkernel.so)
+14 0 (node_manager.cpp, libnestkernel.so)
+15 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+16 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+17 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+18 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+19 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+20 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+
+
+EVENT_TYPE
+0 60000005 OpenMP barrier
+VALUES
+0 End
+1 Begin
+EVENT_TYPE
+0 65000000 Number of OpenMP instantiated tasks
+0 65000001 Number of OpenMP executed tasks
+
+EVENT_TYPE
+0    60000020    pthread function
+VALUES
+0   End
+1 Unresolved
+2 _NOT_Found
+3 nest::Co..ections_ [nest::ConnectionManager::delete_connections_]
+4 nest::Mo..efaults_ [nest::ModelManager::set_synapse_defaults_]
+5 nest::Al..connect_ [nest::AllToAllBuilder::connect_]
+6 nest::Fi..connect_ [nest::FixedInDegreeBuilder::connect_]
+7 nest::No..re_nodes [nest::NodeManager::prepare_nodes]
+8 nest::Si..:update_ [nest::SimulationManager::update_]
+9 nest::No..ze_nodes [nest::NodeManager::finalize_nodes]
+
+
+EVENT_TYPE
+0    60000120    pthread function line and file
+VALUES
+0   End
+1 0 (Unresolved)
+2 0 (_NOT_Found)
+3 0 (conn_builder.cpp, libnestkernel.so)
+4 0 (conn_builder.cpp, libnestkernel.so)
+5 0 (conn_builder.cpp, libnestkernel.so)
+6 0 (conn_builder.cpp, libnestkernel.so)
+7 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+8 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+9 0 (model_manager.cpp, libnestkernel.so)
+10 0 (model_manager.cpp, libnestkernel.so)
+11 0 (node_manager.cpp, libnestkernel.so)
+12 0 (node_manager.cpp, libnestkernel.so)
+13 0 (node_manager.cpp, libnestkernel.so)
+14 0 (node_manager.cpp, libnestkernel.so)
+15 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+16 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+17 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+18 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+19 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+20 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+
+
+EVENT_TYPE
+6    40000033    Executing CPU
+6    40000133    CPU-Event sampling interval
+
+
+EVENT_TYPE
+6    40000001    Application
+VALUES
+0      End
+1      Begin
+
+
+EVENT_TYPE
+6    40000050    RAW clock() value from system
+
+
+EVENT_TYPE
+6    40000003    Flushing Traces
+VALUES
+0      End
+1      Begin
+
+
+EVENT_TYPE
+6    40000036    Process IDentifier
+6    40000037    Parent Process IDentifier
+6    40000038    fork() depth
+
+
+EVENT_TYPE
+7  42000050 PAPI_TOT_INS [Instr completed]
+7  42000059 PAPI_TOT_CYC [Total cycles]
+7  42000000 PAPI_L1_DCM [L1D cache misses]
+7  42000002 PAPI_L2_DCM [L2D cache misses]
+7  42000008 PAPI_L3_TCM [L3 cache misses]
+7  42000055 PAPI_BR_INS [Branches]
+7  42000046 PAPI_BR_MSP [Cond br mspredictd]
+7  42001047 RESOURCE_STALLS [Cycles Allocation is stalled due to Resource Related reason]
+7  41999999 Active hardware counter set
+
+
+GRADIENT_COLOR
+0    {0,255,2}
+1    {0,244,13}
+2    {0,232,25}
+3    {0,220,37}
+4    {0,209,48}
+5    {0,197,60}
+6    {0,185,72}
+7    {0,173,84}
+8    {0,162,95}
+9    {0,150,107}
+10    {0,138,119}
+11    {0,127,130}
+12    {0,115,142}
+13    {0,103,154}
+14    {0,91,166}
+
+
+GRADIENT_NAMES
+0    Gradient 0
+1    Grad. 1/MPI Events
+2    Grad. 2/OMP Events
+3    Grad. 3/OMP locks
+4    Grad. 4/User func
+5    Grad. 5/User Events
+6    Grad. 6/General Events
+7    Grad. 7/Hardware Counters
+8    Gradient 8
+9    Gradient 9
+10    Gradient 10
+11    Gradient 11
+12    Gradient 12
+13    Gradient 13
+14    Gradient 14
+
+
+EVENT_TYPE
+0    70000001    Caller at level 1
+0    70000002    Caller at level 2
+0    70000003    Caller at level 3
+VALUES
+0   End
+1 Unresolved
+2 _NOT_Found
+3 nest::Co..ections_ [nest::ConnectionManager::delete_connections_]
+4 nest::Mo..efaults_ [nest::ModelManager::set_synapse_defaults_]
+5 nest::Al..connect_ [nest::AllToAllBuilder::connect_]
+6 nest::Fi..connect_ [nest::FixedInDegreeBuilder::connect_]
+7 nest::No..re_nodes [nest::NodeManager::prepare_nodes]
+8 nest::Si..:update_ [nest::SimulationManager::update_]
+9 nest::No..ze_nodes [nest::NodeManager::finalize_nodes]
+
+
+EVENT_TYPE
+0    80000001    Caller line at level 1
+0    80000002    Caller line at level 2
+0    80000003    Caller line at level 3
+VALUES
+0   End
+1 0 (Unresolved)
+2 0 (_NOT_Found)
+3 0 (conn_builder.cpp, libnestkernel.so)
+4 0 (conn_builder.cpp, libnestkernel.so)
+5 0 (conn_builder.cpp, libnestkernel.so)
+6 0 (conn_builder.cpp, libnestkernel.so)
+7 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+8 0 (connecti..ager.cpp) [0 (connection_manager.cpp, libnestkernel.so)]
+9 0 (model_manager.cpp, libnestkernel.so)
+10 0 (model_manager.cpp, libnestkernel.so)
+11 0 (node_manager.cpp, libnestkernel.so)
+12 0 (node_manager.cpp, libnestkernel.so)
+13 0 (node_manager.cpp, libnestkernel.so)
+14 0 (node_manager.cpp, libnestkernel.so)
+15 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+16 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+17 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+18 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+19 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+20 0 (simulati..ager.cpp) [0 (simulation_manager.cpp, libnestkernel.so)]
+
+
+EVENT_TYPE
+0 41000000 Object addresses for task 1.1
+VALUES
+1 _ZZNK4nest4Node18get_thread_siblingEmE19__PRETTY_FUNCTION__ [0x00422540-0x00422585]
+2 _ZZNK4nest16SiblingContainer10get_statusER12lockPTRDatumI10DictionaryXadL_ZN14SLIInterpreter14DictionarytypeEEEEE19__PRETTY_FUNCTION__ [0x004222c0-0x00422307]
+3 _ZZN4nest16SiblingContainer10set_statusERK12lockPTRDatumI10DictionaryXadL_ZN14SLIInterpreter14DictionarytypeEEEEE19__PRETTY_FUNCTION__ [0x00422260-0x004222a7]
+4 _ZZN7lockPTRI10DictionaryEC4ERKS1_E19__PRETTY_FUNCTION__ [0x004226c0-0x004226fc]
+5 _ZZN7lockPTRIN9librandom9RandomGenEED4EvE19__PRETTY_FUNCTION__ [0x004223c0-0x004223f6]
+6 _ZZN7lockPTRIN9librandom9RandomGenEE13PointerObjectD4EvE19__PRETTY_FUNCTION__ [0x00422360-0x004223ab]
+7 _ZZN7lockPTRI10DictionaryED4EvE19__PRETTY_FUNCTION__ [0x00422820-0x0042284c]
+8 _ZZN7lockPTRI10DictionaryE13PointerObjectD4EvE19__PRETTY_FUNCTION__ [0x004227c0-0x00422801]
+9 _ZZN7lockPTRI10DictionaryEdeEvE19__PRETTY_FUNCTION__ [0x004225e0-0x00422610]
+10 _ZZNK7lockPTRIN9librandom9RandomGenEE5validEvE19__PRETTY_FUNCTION__ [0x00422400-0x0042243e]
+11 _ZZNK7lockPTRI10DictionaryE3getEvE19__PRETTY_FUNCTION__ [0x00422780-0x004227b0]
+12 _ZZN7lockPTRI10DictionaryE13PointerObject6unlockEvE19__PRETTY_FUNCTION__ [0x00422700-0x0042273e]
+13 _ZZNK7lockPTRI10DictionaryE6unlockEvE19__PRETTY_FUNCTION__ [0x00422740-0x00422775]
+14 _ZZN9librandom9RandomDevclEvE19__PRETTY_FUNCTION__ [0x00422320-0x00422351]
+15 _ZZN9librandom9RandomDev4ldevEvE19__PRETTY_FUNCTION__ [0x00422440-0x0042246d]
+16 _ZZN4nest13KernelManager18get_kernel_managerEvE19__PRETTY_FUNCTION__ [0x00422660-0x004226a5]
+17 _ZZ10get_enginevE19__PRETTY_FUNCTION__ [0x00422850-0x0042286c]
+18 CSWTCH.621 [0x00422220-0x00422247]
+19 _ZZN7lockPTRI10DictionaryEptEvE19__PRETTY_FUNCTION__ [0x00422620-0x00422651]
+20 _ZZNK7lockPTRI10DictionaryEptEvE19__PRETTY_FUNCTION__ [0x004225a0-0x004225d7]
+21 _ZZNK4nest18DataLoggingRequest22get_recording_intervalEvE19__PRETTY_FUNCTION__ [0x00422480-0x004224ca]
+22 _ZZNK4nest18DataLoggingRequest11record_fromEvE19__PRETTY_FUNCTION__ [0x004224e0-0x00422526]
+23 _ZStL8__ioinit [0x00629390-0x00629390]
+24 _ZZNK4nest4Node18get_thread_siblingEmE19__PRETTY_FUNCTION__ [0x00423340-0x00423385]
+25 _ZZNK4nest16SiblingContainer10get_statusER12lockPTRDatumI10DictionaryXadL_ZN14SLIInterpreter14DictionarytypeEEEEE19__PRETTY_FUNCTION__ [0x004230c0-0x00423107]
+26 _ZZN4nest16SiblingContainer10set_statusERK12lockPTRDatumI10DictionaryXadL_ZN14SLIInterpreter14DictionarytypeEEEEE19__PRETTY_FUNCTION__ [0x00423060-0x004230a7]
+27 _ZZN7lockPTRIN9librandom9RandomGenEED4EvE19__PRETTY_FUNCTION__ [0x004231c0-0x004231f6]
+28 _ZZN7lockPTRIN9librandom9RandomGenEE13PointerObjectD4EvE19__PRETTY_FUNCTION__ [0x00423160-0x004231ab]
+29 _ZZNK7lockPTRI10DictionaryEptEvE19__PRETTY_FUNCTION__ [0x00423ae0-0x00423b17]
+30 _ZZN7lockPTRI10DictionaryEptEvE19__PRETTY_FUNCTION__ [0x00423900-0x00423931]
+31 _ZZNK7lockPTRI10DictionaryEdeEvE19__PRETTY_FUNCTION__ [0x004238c0-0x004238fc]
+32 _ZZN7lockPTRI10DictionaryEdeEvE19__PRETTY_FUNCTION__ [0x00423640-0x00423670]
+33 _ZZNK7lockPTRIN9librandom9RandomGenEE5validEvE19__PRETTY_FUNCTION__ [0x00423200-0x0042323e]
+34 _ZZNK7lockPTRI10DictionaryE3getEvE19__PRETTY_FUNCTION__ [0x00423a00-0x00423a30]
+35 _ZZN7lockPTRI10DictionaryE13PointerObject6unlockEvE19__PRETTY_FUNCTION__ [0x00423980-0x004239be]
+36 _ZZNK7lockPTRI10DictionaryE6unlockEvE19__PRETTY_FUNCTION__ [0x004239c0-0x004239f5]
+37 _ZZN7lockPTRI10DictionaryED4EvE19__PRETTY_FUNCTION__ [0x00423aa0-0x00423acc]
+38 _ZZN7lockPTRI10DictionaryE13PointerObjectD4EvE19__PRETTY_FUNCTION__ [0x00423a40-0x00423a81]
+39 _ZZN7lockPTRI10DictionaryEC4ERKS1_E19__PRETTY_FUNCTION__ [0x00423940-0x0042397c]
+40 _ZZN9librandom9RandomDev4ldevEvE19__PRETTY_FUNCTION__ [0x00423240-0x0042326d]
+41 _ZZN9librandom9RandomDevclEvE19__PRETTY_FUNCTION__ [0x00423120-0x00423151]
+42 _ZZN4nest13KernelManager18get_kernel_managerEvE19__PRETTY_FUNCTION__ [0x004237a0-0x004237e5]
+43 _ZZN4nest10sli_neuron6handleERNS_12CurrentEventEE19__PRETTY_FUNCTION__ [0x004234c0-0x004234fa]
+44 _ZZNK4nest10RingBuffer10get_index_ElE19__PRETTY_FUNCTION__ [0x004236c0-0x004236f6]
+45 _ZZN4nest20EventDeliveryManager10get_moduloElE19__PRETTY_FUNCTION__ [0x00423680-0x004236bf]
+46 _ZZN4nest10sli_neuron6handleERNS_10SpikeEventEE19__PRETTY_FUNCTION__ [0x00423500-0x00423538]
+47 CSWTCH.557 [0x00423020-0x00423047]
+48 _ZZN4nest19UniversalDataLoggerINS_10sli_neuronEE11DataLogger_11record_dataERKS1_lE19__PRETTY_FUNCTION__ [0x004235a0-0x00423620]
+49 _ZZN4nest19UniversalDataLoggerINS_10sli_neuronEE11DataLogger_6handleERS1_RKNS_18DataLoggingRequestEE19__PRETTY_FUNCTION__ [0x004233a0-0x0042342c]
+50 _ZZN4nest19UniversalDataLoggerINS_10sli_neuronEE6handleERKNS_18DataLoggingRequestEE19__PRETTY_FUNCTION__ [0x00423440-0x004234b4]
+51 _ZZN4nest4Node8downcastINS_10sli_neuronEEERKT_RKS0_E19__PRETTY_FUNCTION__ [0x00423840-0x004238a2]
+52 _ZZN4nest10sli_neuron21execute_sli_protectedE12lockPTRDatumI10DictionaryXadL_ZN14SLIInterpreter14DictionarytypeEEEE4NameE19__PRETTY_FUNCTION__ [0x00423540-0x00423582]
+53 _ZZN4nest10RingBuffer9get_valueElE19__PRETTY_FUNCTION__ [0x00423700-0x0042372c]
+54 _ZZN4nest10sli_neuron6updateERKNS_4TimeEllE19__PRETTY_FUNCTION__ [0x00423740-0x0042378c]
+55 _ZZNK4nest18DataLoggingRequest22get_recording_intervalEvE19__PRETTY_FUNCTION__ [0x00423280-0x004232ca]
+56 _ZZNK4nest18DataLoggingRequest11record_fromEvE19__PRETTY_FUNCTION__ [0x004232e0-0x00423326]
+57 _ZZNK4nest17SimulationManager8get_timeEvE19__PRETTY_FUNCTION__ [0x00423800-0x0042383a]
+58 _ZStL8__ioinit [0x006293d8-0x006293d8]
+59 _ZStL8__ioinit [0x00629381-0x00629381]
+60 completed.6963 [0x00629380-0x00629380]
+61 __FRAME_END__ [0x00426a88-0x00426a87]
+62 __GNU_EH_FRAME_HDR [0x00423d20-0x00423d1f]
+63 __bss_start [0x00629380-0x0062937f]
+64 _end [0x006293e8-0x006293e7]
+65 _ZN4nest10sli_neuron15recordablesMap_E [0x006293a0-0x006293d7]
+66 .gomp_critical_user_sli_neuron [0x006293e0-0x006293e7]
+67 sli_engine [0x00629388-0x0062938f]
+68 _IO_stdin_used [0x004219c0-0x004219c3]
+
+EVENT_TYPE
+9    40000018    Tracing mode:
+VALUES
+1      Detailed
+2      CPU Bursts
+
+

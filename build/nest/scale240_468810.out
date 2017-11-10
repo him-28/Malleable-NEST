@@ -1,0 +1,1035 @@
+Welcome to Extrae 3.5.2
+Extrae: Detected GOMP version is 4.5
+Extrae: Detected and hooked OpenMP runtime: [GNU GOMP]
+Extrae: OMP_NUM_THREADS set to 48
+Extrae: Parsing the configuration file (extrae.xml) begins
+Extrae: Tracing package is located on /apps/BSCTOOLS/extrae/3.5.1/impi_2017_4
+Extrae: Generating intermediate files for Paraver traces.
+Extrae: MPI routines will collect HW counters information.
+Extrae: OpenMP routines will collect HW counters information.
+Extrae: Tracing 3 level(s) of MPI callers: [ 1 2 3 ]
+Extrae: Warning! change-at-time time units not specified. Using seconds
+Extrae: PAPI domain set to ALL for HWC set 1
+Extrae: HWC set 1 contains following counters < PAPI_TOT_INS (0x80000032) PAPI_TOT_CYC (0x8000003b) PAPI_L1_DCM (0x80000000) PAPI_L2_DCM (0x80000002) PAPI_L3_TCM (0x80000008) PAPI_BR_INS (0x80000037) PAPI_BR_MSP (0x8000002e) RESOURCE_STALLS (0x4000002f) > - never changes
+Extrae: Warning! change-at-time time units not specified. Using seconds
+Extrae: PAPI domain set to ALL for HWC set 2
+Extrae: HWC set 2 contains following counters < PAPI_TOT_INS (0x80000032) PAPI_TOT_CYC (0x8000003b) PAPI_VEC_SP (0x80000069) PAPI_SR_INS (0x80000036) PAPI_LD_INS (0x80000035) > - never changes
+Extrae: Resource usage is disabled at flush buffer.
+Extrae: Memory usage is disabled at flush buffer.
+Extrae: Tracing buffer can hold 5000000 events
+Extrae: Circular buffer disabled.
+Extrae: Sampling buffers will be written at instrumentation points
+Extrae: Dynamic memory instrumentation is disabled.
+Extrae: Basic I/O memory instrumentation is disabled.
+Extrae: System calls instrumentation is disabled.
+Extrae: Parsing the configuration file (extrae.xml) has ended
+Extrae: Intermediate traces will be stored in /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest
+Extrae: Tracing mode is set to: Detail.
+Extrae: Successfully initiated with 1 tasks and 48 threads
+
+[INFO] [2017.10.17 17:13:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.10.17 17:13:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.10.17 17:13:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.10.17 17:13:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+NEST v2.12.0 (C) 2004 The NEST Initiative
+
+Oct 17 17:13:36 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Oct 17 17:13:37 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Oct 17 17:13:37 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Oct 17 17:13:37 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Oct 17 17:13:37 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Oct 17 17:13:37 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+0 57699712 # virt_mem_0
+Trying to set num threads: 240
+
+Oct 17 17:13:37 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Oct 17 17:13:37 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Oct 17 17:13:37 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Oct 17 17:13:38 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+
+Oct 17 17:13:38 SimulationManager::set_status [Info]: 
+    Temporal resolution changed.
+
+Oct 17 17:13:38 BuildNetwork [Info]: 
+    Creating excitatory population.
+
+Oct 17 17:13:38 SLI [Deprecated]: 
+    SLI function LayoutNetwork is deprecated in NEST 3.0.
+
+Oct 17 17:13:38 SLIInterpreter [Deprecated]: 
+    SLI function CurrentSubnet is deprecated in NEST 3.0.
+
+Oct 17 17:13:38 Create [Deprecated]: 
+    Model subnet is deprecated in NEST 3.0.
+
+Oct 17 17:13:38 SLIInterpreter [Deprecated]: 
+    SLI function ChangeSubnet is deprecated in NEST 3.0.
+
+Oct 17 17:13:38 BuildNetwork [Info]: 
+    Creating inhibitory population.
+
+Oct 17 17:13:38 BuildNetwork [Info]: 
+    Randomzing membrane potentials.
+
+Oct 17 17:13:38 SLIInterpreter [Deprecated]: 
+    SLI function GetNodes_i_D_b_b is deprecated in NEST 3.0.
+
+Oct 17 17:13:38 BuildNetwork [Info]: 
+    Creating excitatory stimulus generator.
+
+Oct 17 17:13:38 BuildNetwork [Info]: 
+    Creating excitatory spike detector.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+
+Oct 17 17:13:38 RecordingDevice::set_status [Info]: 
+    Data will be recorded to file and to memory.
+0 58468016 # virt_mem_after_nodes
+0 1.73 # build_time_nodes
+
+Oct 17 17:13:39 BuildNetwork [Info]: 
+    Connecting stimulus generators.
+
+Oct 17 17:13:39 BuildNetwork [Info]: 
+    Connecting excitatory -> excitatory population.
+
+Oct 17 17:14:53 BuildNetwork [Info]: 
+    Connecting inhibitory -> excitatory population.
+
+Oct 17 17:15:03 BuildNetwork [Info]: 
+    Connecting excitatory -> inhibitory population.
+
+Oct 17 17:15:31 BuildNetwork [Info]: 
+    Connecting inhibitory -> inhibitory population.
+
+Oct 17 17:15:37 BuildNetwork [Info]: 
+    Connecting spike detectors.
+0 118.75 # build_edge_time 
+0 99378440 # virt_mem_after_edges
+
+Oct 17 17:15:37 NodeManager::prepare_nodes [Info]: 
+    Preparing 113220 nodes for simulation.
+
+Oct 17 17:15:37 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This may result in inconsistent results under the 
+    following conditions: (i) A network contains more than one source of 
+    randomness, e.g., two different poisson_generators, and (ii) Simulate is 
+    called repeatedly with simulation times that are not multiples of the 
+    minimal delay.
+
+Oct 17 17:15:37 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 113220
+    Simulaton time (ms): 50
+    Number of OpenMP threads: 240
+    Number of MPI processes: 1
+
+Oct 17 17:15:40 SimulationManager::resume [Info]: 
+    Simulation finished.
+0 99378440 # virt_mem_after_presim
+0 2.78 # presim_time
+
+Oct 17 17:15:40 NodeManager::prepare_nodes [Info]: 
+    Preparing 113220 nodes for simulation.
+
+Oct 17 17:15:40 SimulationManager::run [Warning]: 
+    The requested simulation time is not an integer multiple of the minimal 
+    delay in the network. This may result in inconsistent results under the 
+    following conditions: (i) A network contains more than one source of 
+    randomness, e.g., two different poisson_generators, and (ii) Simulate is 
+    called repeatedly with simulation times that are not multiples of the 
+    minimal delay.
+
+Oct 17 17:15:40 SimulationManager::start_updating_ [Info]: 
+    Number of local nodes: 113220
+    Simulaton time (ms): 250
+    Number of OpenMP threads: 240
+    Number of MPI processes: 1
+
+Oct 17 17:15:54 SimulationManager::resume [Info]: 
+    Simulation finished.
+0 99378440 # virt_mem_after_sim
+0 14.53 # sim_time
+0 8.964 # average rate
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000000.mpit
+Extrae: Intermediate raw sym file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000000.sym
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000001.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000002.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000003.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000004.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000005.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000006.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000007.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000008.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000009.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000010.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000011.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000012.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000013.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000014.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000015.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000016.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000017.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000018.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000019.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000020.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000021.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000022.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000023.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000024.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000025.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000026.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000027.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000028.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000029.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000030.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000031.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000032.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000033.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000034.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000035.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000036.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000037.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000038.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000039.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000040.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000041.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000042.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000043.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000044.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000045.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000046.mpit
+Extrae: Intermediate raw trace file created : /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000047.mpit
+Extrae: Deallocating memory.
+Extrae: Application has ended. Tracing has been terminated.
+Extrae: Proceeding with the merge of the intermediate tracefiles.
+Extrae: Waiting for all tasks to reach the checkpoint.
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 86045 RUNNING AT s14r1b01
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 86045 RUNNING AT s14r1b01
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+   Intel(R) MPI Library troubleshooting guide:
+      https://software.intel.com/node/561764
+===================================================================================
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s14r1b01 >
+mpi2prv: Assigned size per processor < 4 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000000.mpit is object 1.1.1 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000001.mpit is object 1.1.2 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000002.mpit is object 1.1.3 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000003.mpit is object 1.1.4 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000004.mpit is object 1.1.5 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000005.mpit is object 1.1.6 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000006.mpit is object 1.1.7 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000007.mpit is object 1.1.8 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000008.mpit is object 1.1.9 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000009.mpit is object 1.1.10 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000010.mpit is object 1.1.11 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000011.mpit is object 1.1.12 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000012.mpit is object 1.1.13 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000013.mpit is object 1.1.14 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000014.mpit is object 1.1.15 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000015.mpit is object 1.1.16 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000016.mpit is object 1.1.17 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000017.mpit is object 1.1.18 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000018.mpit is object 1.1.19 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000019.mpit is object 1.1.20 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000020.mpit is object 1.1.21 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000021.mpit is object 1.1.22 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000022.mpit is object 1.1.23 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000023.mpit is object 1.1.24 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000024.mpit is object 1.1.25 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000025.mpit is object 1.1.26 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000026.mpit is object 1.1.27 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000027.mpit is object 1.1.28 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000028.mpit is object 1.1.29 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000029.mpit is object 1.1.30 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000030.mpit is object 1.1.31 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000031.mpit is object 1.1.32 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000032.mpit is object 1.1.33 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000033.mpit is object 1.1.34 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000034.mpit is object 1.1.35 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000035.mpit is object 1.1.36 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000036.mpit is object 1.1.37 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000037.mpit is object 1.1.38 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000038.mpit is object 1.1.39 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000039.mpit is object 1.1.40 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000040.mpit is object 1.1.41 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000041.mpit is object 1.1.42 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000042.mpit is object 1.1.43 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000043.mpit is object 1.1.44 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000044.mpit is object 1.1.45 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000045.mpit is object 1.1.46 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000046.mpit is object 1.1.47 on node s14r1b01 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s14r1b01.0000086046000000000047.mpit is object 1.1.48 on node s14r1b01 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 7917110 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! scale240.prv has been generated.

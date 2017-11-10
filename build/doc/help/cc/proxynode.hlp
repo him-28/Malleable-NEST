@@ -1,0 +1,30 @@
+Name: proxynode - Proxy to provide Nodes on remote machines
+
+Description:
+
+
+
+
+Parameters:
+
+
+
+
+Remarks:
+
+
+
+
+References:
+
+
+
+
+Author:
+
+June 2005, Jochen Martin Eppler
+
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/nestkernel/proxynode.h

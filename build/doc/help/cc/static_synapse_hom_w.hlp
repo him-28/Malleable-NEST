@@ -1,0 +1,22 @@
+Name: static_synapse_hom_w - Static synapse type 
+ using homogeneous weight, i.e. all synapses 
+ feature the same w.
+
+Author:
+
+Moritz Helias, Susanne Kunkel
+
+
+FirstVersion:
+
+April 2008
+
+
+SeeAlso:
+
+synapsedict
+static_synapse
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/nestkernel/common_properties_hom_w.h

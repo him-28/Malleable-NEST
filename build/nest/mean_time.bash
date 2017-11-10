@@ -1,0 +1,10 @@
+awk '{ total += $3; count++ } END { print  total/count }' e1.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e2.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e3.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e4.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e6.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e8.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e12.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e16.txt >> new_avgtime.txt
+awk '{ total += $3; count++ } END { print  total/count }' e24.txt >> new_avgtime.txt 
+awk '{ total += $3; count++ } END { print  total/count }' e48.txt >> new_avgtime.txt

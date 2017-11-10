@@ -1,0 +1,10 @@
+Name: flush - Force the buffer of a stream to be flushed.
+
+Synopsis:
+
+ostream flush -> ostream
+
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/sli_io.cc

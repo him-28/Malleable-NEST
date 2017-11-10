@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="login1" name="core.phase_1" tests="6" time="1.55731" timestamp="2017-09-18T08:22:31+00:00">
+  <properties>
+    <property name="os.arch" value="x86_64" />
+    <property name="os.name" value="Linux" />
+    <property name="os.version" value="4.4.59-92.20-default" />
+    <property name="user.home" value="/home/bsc15/bsc15982" />
+    <property name="user.name" value="bsc15982" />
+  </properties>
+  <testcase classname="core.selftests" name="test_pass.sli" time="0.332683" />
+  <testcase classname="core.selftests" name="test_goodhandler.sli" time="0.251301" />
+  <testcase classname="core.selftests" name="test_lazyhandler.sli" time="0.299444" />
+  <testcase classname="core.selftests" name="test_fail.sli" time="0.219156" />
+  <testcase classname="core.selftests" name="test_stop.sli" time="0.232174" />
+  <testcase classname="core.selftests" name="test_badhandler.sli" time="0.222561" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

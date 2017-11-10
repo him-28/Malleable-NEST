@@ -1,0 +1,21 @@
+Name: cin - Standard input stream
+
+Synopsis:
+
+cin -> istream
+
+
+Description:
+
+cin corresponds to the C++ object with the 
+same name.
+
+
+SeeAlso:
+
+cout
+cerr
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/sli_io.cc

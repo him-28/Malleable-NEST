@@ -1,0 +1,10 @@
+Name: closeinput - Close current input file.
+
+FirstVersion:
+
+25 Jul 2005, Gewaltig
+
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/slicontrol.cc

@@ -1,0 +1,93 @@
+#! /bin/sh
+
+prefix=${NEST_INSTALL_DIR:-/home/bsc15/bsc15982/nest-simulator/change}
+exec_prefix=${prefix}
+
+usage()
+{
+    cat <<EOF
+Usage: nest-config [OPTION]
+
+Known values for OPTION are:
+
+  --prefix              NEST install prefix for architecture-independent files
+  --exec-prefix         NEST install prefix for architecture-dependent files
+  --libs                print library linking information
+  --cflags              print pre-processor and compiler flags
+  --includes            print includes
+  --compiler            print the compiler used to compile NEST
+  --static-libraries    print "ON" if configured for static libraries, "OFF" otherwise
+  --docdir              print the relative path (to prefix) to the installed documentation
+  --datadir             print the relative path (to prefix) to the installed data
+  --libdir              print the relative path (to prefix) to the installed libraries
+  --help                display this help and exit
+  --version             output version information
+
+EOF
+
+    exit $1
+}
+
+if test $# -eq 0; then
+    usage 1
+fi
+
+cflags=false
+libs=false
+
+while test $# -gt 0; do
+    case "$1" in
+    -*=*) optarg=`echo "$1" | sed 's/[-_a-zA-Z0-9]*=//'` ;;
+    *) optarg= ;;
+    esac
+
+    case "$1" in
+    --prefix=*)
+        prefix=$optarg
+        ;;
+    --prefix)
+        echo $prefix
+        ;;
+    --exec-prefix)
+        echo $exec_prefix
+        ;;
+    --version)
+        echo "2.12.0"
+        ;;
+    --help)
+        usage 0
+        ;;
+    --includes)
+        echo " -I/home/bsc15/bsc15982/nest-simulator/libnestutil -I/home/bsc15/bsc15982/nest-simulator/change/libnestutil -I/home/bsc15/bsc15982/nest-simulator/librandom -I/home/bsc15/bsc15982/nest-simulator/sli -I/home/bsc15/bsc15982/nest-simulator/topology -I/home/bsc15/bsc15982/nest-simulator/nestkernel -I/home/bsc15/bsc15982/nest-simulator/nest -I/usr/include -I/usr/include -I/apps/INTEL/2017.4/impi/2017.3.196/intel64/include"
+        ;;
+    --cflags)
+        echo "-march=skylake-avx512 -mtune=skylake-avx512 -m64 -fPIC  -O2 -Wall -fopenmp  -fdiagnostics-color=auto"
+        ;;
+    --libs)
+        echo "-L$prefix/lib64 -lnestutil -lnest -lrandom -lsli -lnestkernel -fopenmp /usr/lib64/libltdl.so /usr/lib64/libreadline.so /usr/lib64/libncurses.so    /apps/INTEL/2017.4/impi/2017.3.196/intel64/lib/libmpicxx.so /apps/INTEL/2017.4/impi/2017.3.196/intel64/lib/libmpifort.so /apps/INTEL/2017.4/impi/2017.3.196/intel64/lib/release_mt/libmpi.so /apps/INTEL/2017.4/impi/2017.3.196/intel64/lib/libmpigi.a /usr/lib64/libdl.so /usr/lib64/librt.so /usr/lib64/libpthread.so"
+        ;;
+    --compiler)
+        echo "/apps/GCC/7.1.0/bin/g++"
+        ;;
+
+    --static-libraries)
+        echo "OFF"
+        ;;
+    --docdir)
+        echo "share/doc/nest"
+        ;;
+    --datadir)
+        echo "share/nest"
+        ;;
+    --libdir)
+        echo "lib64"
+        ;;
+    *)
+        usage
+        exit 1
+        ;;
+    esac
+    shift
+done
+
+exit 0

@@ -1,0 +1,24 @@
+Name: GNUaddhistory - Add a string to the readline-history
+
+Synopsis:
+
+(string) GRNUaddhistory ->	-
+
+
+Description:
+
+Adds a string to the readline history.
+
+
+Require:
+
+HAVE_READLINE
+
+
+SeeAlso:
+
+GNUreadline
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/gnureadline.cc

@@ -1,0 +1,30 @@
+Name: CurrentSubnet - return the gid of the current network node.
+
+Synopsis:
+
+CurrentSubnet -> gid
+
+
+Description:
+
+CurrentSubnet returns the gid of the current working subnet in form 
+of an integer number
+
+
+Availability:
+
+NEST
+
+
+Author:
+
+Marc-Oliver Gewaltig
+
+
+SeeAlso:
+
+ChangeSubnet
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/nestkernel/nestmodule.cpp

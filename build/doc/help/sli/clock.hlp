@@ -1,0 +1,25 @@
+Name: clock - returns realtime 
+ Synopsis:  clock -> double
+
+Description:
+
+Same as realtime, for backward compatibilty only.
+
+
+Author:
+
+Hans Ekkehard Plesser
+
+
+FirstVersion:
+
+2003-07-29
+
+
+SeeAlso:
+
+realtime
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/lib/sli/sli-init.sli

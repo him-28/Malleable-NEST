@@ -1,0 +1,10 @@
+Name: growthcurvedict - growth curves for Model of Structural Plasticity
+
+Description:
+
+This dictionary provides indexes for the growth curve factory
+
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/nestkernel/sp_manager.h

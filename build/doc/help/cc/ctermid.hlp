@@ -1,0 +1,19 @@
+Name: ctermid - Return the path to the controlling terminal of the process.
+
+Synopsis:
+
+ctermid -> (pathname)
+
+
+Remarks:
+
+This is a wrapper to the POSIX kernel function ctermid().
+
+
+SeeAlso:
+
+isatty
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/processes.h

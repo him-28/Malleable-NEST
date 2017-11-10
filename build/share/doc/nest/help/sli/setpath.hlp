@@ -1,0 +1,10 @@
+Name: setpath - Append string to path array
+
+SeeAlso:
+
+addpath
+path
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/lib/sli/sli-init.sli

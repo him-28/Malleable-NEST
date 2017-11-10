@@ -1,0 +1,335 @@
+NEST v. 2.12.0 testsuite log
+======================
+Running tests from /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest
+Running test 'selftests/test_pass.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_pass.sli
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+-> 0 (Success)
+----------------------------------------
+Running test 'selftests/test_goodhandler.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_goodhandler.sli
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:31 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+-> 0 (Success)
+----------------------------------------
+Running test 'selftests/test_lazyhandler.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_lazyhandler.sli
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+-> 0 (Success)
+----------------------------------------
+Running test 'selftests/test_fail.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_fail.sli
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:32 div_ii [Error]: DivisionByZero
+   > 
+   > Sep 18 10:22:32 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 126) - process 0
+-> 126 (Success)
+----------------------------------------
+Running test 'selftests/test_stop.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_stop.sli
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   >  Software Interrupt 
+   > 
+   > 
+   > Sep 18 10:22:32 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 126) - process 0
+-> 126 (Success)
+----------------------------------------
+Running test 'selftests/test_badhandler.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_badhandler.sli
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:32 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:32 raiserror [Error]: BadErrorHandler
+   >     : The error handler of a stopped context contained itself an error.
+   > 
+   > Sep 18 10:22:32 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 126) - process 0
+-> 126 (Success)
+----------------------------------------
+Running test 'selftests/test_pass_or_die.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_pass_or_die.sli
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:33 div_ii [Error]: DivisionByZero
+   > 
+   > Sep 18 10:22:33 unittest::pass_or_die [Fatal]: 
+   >     Code block did not pass.
+   >     Code block:
+   >     {1 0 div}
+   > 
+   > Sep 18 10:22:33 unittest::pass_or_die [Fatal]: 
+   >     Exiting with code 2.
+   > 
+   > Sep 18 10:22:33 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 2) - process 0
+-> 2 (Success)
+----------------------------------------
+Running test 'selftests/test_assert_or_die_b.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_assert_or_die_b.sli
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:33 unittest::assert_or_die [Fatal]: 
+   >     Assertion failed.
+   > 
+   > Sep 18 10:22:33 unittest::assert_or_die [Fatal]: 
+   >     Exiting with code 1.
+   > 
+   > Sep 18 10:22:33 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+-> 1 (Success)
+----------------------------------------
+Running test 'selftests/test_assert_or_die_p.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_assert_or_die_p.sli
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:33 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:33 unittest::assert_or_die [Fatal]: 
+   >     Assertion failed.
+   >     Assertion:
+   >     {false}
+   > 
+   > Sep 18 10:22:33 unittest::assert_or_die [Fatal]: 
+   >     Exiting with code 1.
+   > 
+   > Sep 18 10:22:33 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+-> 1 (Success)
+----------------------------------------
+Running test 'selftests/test_fail_or_die.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_fail_or_die.sli
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:34 unittest::fail_or_die [Fatal]: 
+   >     Code block failed to raise an error.
+   >     Code block:
+   >     {}
+   > 
+   > Sep 18 10:22:34 unittest::fail_or_die [Fatal]: 
+   >     Exiting with code 3.
+   > 
+   > Sep 18 10:22:34 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 3) - process 0
+-> 3 (Success)
+----------------------------------------
+Running test 'selftests/test_crash_or_die.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_crash_or_die.sli
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:34 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 3) - process 0
+-> 3 (Success)
+----------------------------------------
+Running test 'selftests/test_failbutnocrash_or_die_crash.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_failbutnocrash_or_die_crash.sli
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:34 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 3) - process 0
+-> 3 (Success)
+----------------------------------------
+Running test 'selftests/test_failbutnocrash_or_die_pass.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_failbutnocrash_or_die_pass.sli
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:34 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:34 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 3) - process 0
+-> 3 (Success)
+----------------------------------------
+Running test 'selftests/test_passorfailbutnocrash_or_die.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/selftests/test_passorfailbutnocrash_or_die.sli
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:35 MPIManager::finalize() [Info]: 
+   >     Calling MPI_Abort() due to errors in the script.
+   > application called MPI_Abort(MPI_COMM_WORLD, 3) - process 0
+-> 3 (Success)
+----------------------------------------
+Running test 'unittests/issue-463.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/unittests/issue-463.sli
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:35 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+   > Trying to set num threads: 4
+-> 0 (Success)
+----------------------------------------
+Running test 'unittests/issue-565.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/unittests/issue-565.sli
+   > [INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > 
+   > Sep 18 10:22:36 ModelManager::clear_models_ [Info]: 
+   >     Models will be cleared and parameters reset.
+   > 
+   > Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+   >     Deleting existing random number generators
+   > 
+   > Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+   >     Creating default RNGs
+   > Trying to set num threads: 1
+   > 
+   > Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+   >     Deleting existing random number generators
+   > 
+   > Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+   >     Creating default RNGs
+   > 
+   > Sep 18 10:22:36 Network::create_grng_ [Info]: 
+   >     Creating new default global RNG
+   > terminate called after throwing an instance of 'std::out_of_range'
+   > terminate called recursively
+   > terminate called recursively
+   > 
+   > ===================================================================================
+   > =   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+   > =   PID 332214 RUNNING AT login1
+   > =   EXIT CODE: 1
+   > =   CLEANING UP REMAINING PROCESSES
+   > =   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+   > ===================================================================================
+   > 
+   > ===================================================================================
+   > =   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+   > =   PID 332214 RUNNING AT login1
+   > =   EXIT CODE: 1
+   > =   CLEANING UP REMAINING PROCESSES
+   > =   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+   > ===================================================================================
+   >    Intel(R) MPI Library troubleshooting guide:
+   >       https://software.intel.com/node/561764
+   > ===================================================================================
+-> 1 (Failed: missed SLI assertion)
+----------------------------------------
+Running test 'unittests/test_add_freeze_thaw.sli'... 
+   > Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/unittests/test_add_freeze_thaw.sli
+   > [INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > Trying to set num threads: 1
+   > [INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+   > [INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+   > [INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+   > NEST v2.12.0 (C) 2004 The NEST Initiative
+   > Trying to set num threads: 1
+   > Trying to set num threads: 4
+   > terminate called after throwing an instance of 'terminate called recursively
+   > std::out_of_range'
+   > terminate called recursively
+   > terminate called recursively
+   > terminate called recursively
+   > 
+   > ===================================================================================
+   > =   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+   > =   PID 332643 RUNNING AT login1
+   > =   EXIT CODE: 6
+   > =   CLEANING UP REMAINING PROCESSES
+   > =   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+   > ===================================================================================
+   > 
+   > ===================================================================================
+   > =   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+   > =   PID 332643 RUNNING AT login1
+   > =   EXIT CODE: 6
+   > =   CLEANING UP REMAINING PROCESSES
+   > =   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+   > ===================================================================================
+   >    Intel(R) MPI Library troubleshooting guide:
+   >       https://software.intel.com/node/561764
+   > ===================================================================================
+-> 6 (Failed: unexpected exit code 6)
+----------------------------------------

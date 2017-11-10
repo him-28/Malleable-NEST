@@ -1,0 +1,750 @@
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 4 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000003.mpit is object 1.1.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000004.mpit is object 1.1.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000005.mpit is object 1.1.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000006.mpit is object 1.1.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000007.mpit is object 1.1.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000008.mpit is object 1.1.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000009.mpit is object 1.1.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000010.mpit is object 1.1.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000011.mpit is object 1.1.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000012.mpit is object 1.1.13 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000013.mpit is object 1.1.14 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000014.mpit is object 1.1.15 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000015.mpit is object 1.1.16 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000016.mpit is object 1.1.17 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000017.mpit is object 1.1.18 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000018.mpit is object 1.1.19 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000019.mpit is object 1.1.20 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000020.mpit is object 1.1.21 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000021.mpit is object 1.1.22 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000022.mpit is object 1.1.23 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000023.mpit is object 1.1.24 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000024.mpit is object 1.1.25 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000025.mpit is object 1.1.26 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000026.mpit is object 1.1.27 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000027.mpit is object 1.1.28 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000028.mpit is object 1.1.29 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000029.mpit is object 1.1.30 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000030.mpit is object 1.1.31 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000031.mpit is object 1.1.32 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000032.mpit is object 1.1.33 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000033.mpit is object 1.1.34 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000034.mpit is object 1.1.35 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000035.mpit is object 1.1.36 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000036.mpit is object 1.1.37 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000037.mpit is object 1.1.38 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000038.mpit is object 1.1.39 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000039.mpit is object 1.1.40 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000040.mpit is object 1.1.41 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000041.mpit is object 1.1.42 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000042.mpit is object 1.1.43 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000043.mpit is object 1.1.44 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000044.mpit is object 1.1.45 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000045.mpit is object 1.1.46 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000046.mpit is object 1.1.47 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284732000000000047.mpit is object 1.1.48 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 7962890 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi1.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 5 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000003.mpit is object 1.1.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000004.mpit is object 1.1.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000005.mpit is object 1.1.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000006.mpit is object 1.1.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000007.mpit is object 1.1.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000008.mpit is object 1.1.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000009.mpit is object 1.1.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000010.mpit is object 1.1.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000011.mpit is object 1.1.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000012.mpit is object 1.1.13 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000013.mpit is object 1.1.14 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000014.mpit is object 1.1.15 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000015.mpit is object 1.1.16 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000016.mpit is object 1.1.17 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000017.mpit is object 1.1.18 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000018.mpit is object 1.1.19 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000019.mpit is object 1.1.20 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000020.mpit is object 1.1.21 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000021.mpit is object 1.1.22 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000022.mpit is object 1.1.23 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284831000000000023.mpit is object 1.1.24 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000002.mpit is object 1.2.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000003.mpit is object 1.2.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000004.mpit is object 1.2.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000005.mpit is object 1.2.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000006.mpit is object 1.2.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000007.mpit is object 1.2.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000008.mpit is object 1.2.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000009.mpit is object 1.2.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000010.mpit is object 1.2.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000011.mpit is object 1.2.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000012.mpit is object 1.2.13 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000013.mpit is object 1.2.14 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000014.mpit is object 1.2.15 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000015.mpit is object 1.2.16 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000016.mpit is object 1.2.17 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000017.mpit is object 1.2.18 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000018.mpit is object 1.2.19 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000019.mpit is object 1.2.20 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000020.mpit is object 1.2.21 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000021.mpit is object 1.2.22 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000022.mpit is object 1.2.23 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284830000001000023.mpit is object 1.2.24 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 1 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 8145483 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi2.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 5 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000003.mpit is object 1.1.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000004.mpit is object 1.1.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000005.mpit is object 1.1.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000006.mpit is object 1.1.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000007.mpit is object 1.1.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000008.mpit is object 1.1.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000009.mpit is object 1.1.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000010.mpit is object 1.1.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000011.mpit is object 1.1.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000012.mpit is object 1.1.13 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000013.mpit is object 1.1.14 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000014.mpit is object 1.1.15 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284928000000000015.mpit is object 1.1.16 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000002.mpit is object 1.2.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000003.mpit is object 1.2.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000004.mpit is object 1.2.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000005.mpit is object 1.2.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000006.mpit is object 1.2.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000007.mpit is object 1.2.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000008.mpit is object 1.2.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000009.mpit is object 1.2.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000010.mpit is object 1.2.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000011.mpit is object 1.2.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000012.mpit is object 1.2.13 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000013.mpit is object 1.2.14 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000014.mpit is object 1.2.15 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284927000001000015.mpit is object 1.2.16 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000001.mpit is object 1.3.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000002.mpit is object 1.3.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000003.mpit is object 1.3.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000004.mpit is object 1.3.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000005.mpit is object 1.3.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000006.mpit is object 1.3.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000007.mpit is object 1.3.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000008.mpit is object 1.3.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000009.mpit is object 1.3.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000010.mpit is object 1.3.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000011.mpit is object 1.3.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000012.mpit is object 1.3.13 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000013.mpit is object 1.3.14 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000014.mpit is object 1.3.15 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000284929000002000015.mpit is object 1.3.16 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 8463515 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi3.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 5 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000003.mpit is object 1.1.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000004.mpit is object 1.1.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000005.mpit is object 1.1.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000006.mpit is object 1.1.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000007.mpit is object 1.1.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000008.mpit is object 1.1.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000009.mpit is object 1.1.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000010.mpit is object 1.1.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285066000000000011.mpit is object 1.1.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000002.mpit is object 1.2.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000003.mpit is object 1.2.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000004.mpit is object 1.2.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000005.mpit is object 1.2.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000006.mpit is object 1.2.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000007.mpit is object 1.2.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000008.mpit is object 1.2.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000009.mpit is object 1.2.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000010.mpit is object 1.2.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285067000001000011.mpit is object 1.2.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000001.mpit is object 1.3.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000002.mpit is object 1.3.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000003.mpit is object 1.3.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000004.mpit is object 1.3.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000005.mpit is object 1.3.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000006.mpit is object 1.3.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000007.mpit is object 1.3.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000008.mpit is object 1.3.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000009.mpit is object 1.3.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000010.mpit is object 1.3.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285069000002000011.mpit is object 1.3.12 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000000.mpit is object 1.4.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000001.mpit is object 1.4.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000002.mpit is object 1.4.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000003.mpit is object 1.4.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000004.mpit is object 1.4.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000005.mpit is object 1.4.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000006.mpit is object 1.4.7 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000007.mpit is object 1.4.8 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000008.mpit is object 1.4.9 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000009.mpit is object 1.4.10 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000010.mpit is object 1.4.11 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285068000003000011.mpit is object 1.4.12 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 8699602 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi4.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 7 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322997000000000000.mpit is object 1.1.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322997000000000001.mpit is object 1.1.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322997000000000002.mpit is object 1.1.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322997000000000003.mpit is object 1.1.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322997000000000004.mpit is object 1.1.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322997000000000005.mpit is object 1.1.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322995000001000000.mpit is object 1.2.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322995000001000001.mpit is object 1.2.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322995000001000002.mpit is object 1.2.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322995000001000003.mpit is object 1.2.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322995000001000004.mpit is object 1.2.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322995000001000005.mpit is object 1.2.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323001000002000000.mpit is object 1.3.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323001000002000001.mpit is object 1.3.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323001000002000002.mpit is object 1.3.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323001000002000003.mpit is object 1.3.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323001000002000004.mpit is object 1.3.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323001000002000005.mpit is object 1.3.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322998000003000000.mpit is object 1.4.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322998000003000001.mpit is object 1.4.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322998000003000002.mpit is object 1.4.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322998000003000003.mpit is object 1.4.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322998000003000004.mpit is object 1.4.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322998000003000005.mpit is object 1.4.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323000000004000000.mpit is object 1.5.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323000000004000001.mpit is object 1.5.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323000000004000002.mpit is object 1.5.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323000000004000003.mpit is object 1.5.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323000000004000004.mpit is object 1.5.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323000000004000005.mpit is object 1.5.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323002000005000000.mpit is object 1.6.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323002000005000001.mpit is object 1.6.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323002000005000002.mpit is object 1.6.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323002000005000003.mpit is object 1.6.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323002000005000004.mpit is object 1.6.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000323002000005000005.mpit is object 1.6.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322999000006000000.mpit is object 1.7.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322999000006000001.mpit is object 1.7.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322999000006000002.mpit is object 1.7.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322999000006000003.mpit is object 1.7.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322999000006000004.mpit is object 1.7.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322999000006000005.mpit is object 1.7.6 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322996000007000000.mpit is object 1.8.1 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322996000007000001.mpit is object 1.8.2 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322996000007000002.mpit is object 1.8.3 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322996000007000003.mpit is object 1.8.4 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322996000007000004.mpit is object 1.8.5 on node s10r2b24 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s10r2b24.0000322996000007000005.mpit is object 1.8.6 on node s10r2b24 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 9852575 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi6.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 7 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285279000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285279000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285279000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285279000000000003.mpit is object 1.1.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285279000000000004.mpit is object 1.1.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285279000000000005.mpit is object 1.1.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285273000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285273000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285273000001000002.mpit is object 1.2.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285273000001000003.mpit is object 1.2.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285273000001000004.mpit is object 1.2.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285273000001000005.mpit is object 1.2.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285274000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285274000002000001.mpit is object 1.3.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285274000002000002.mpit is object 1.3.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285274000002000003.mpit is object 1.3.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285274000002000004.mpit is object 1.3.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285274000002000005.mpit is object 1.3.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285277000003000000.mpit is object 1.4.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285277000003000001.mpit is object 1.4.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285277000003000002.mpit is object 1.4.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285277000003000003.mpit is object 1.4.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285277000003000004.mpit is object 1.4.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285277000003000005.mpit is object 1.4.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285278000004000000.mpit is object 1.5.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285278000004000001.mpit is object 1.5.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285278000004000002.mpit is object 1.5.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285278000004000003.mpit is object 1.5.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285278000004000004.mpit is object 1.5.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285278000004000005.mpit is object 1.5.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285275000005000000.mpit is object 1.6.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285275000005000001.mpit is object 1.6.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285275000005000002.mpit is object 1.6.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285275000005000003.mpit is object 1.6.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285275000005000004.mpit is object 1.6.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285275000005000005.mpit is object 1.6.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285281000006000000.mpit is object 1.7.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285281000006000001.mpit is object 1.7.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285281000006000002.mpit is object 1.7.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285281000006000003.mpit is object 1.7.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285281000006000004.mpit is object 1.7.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285281000006000005.mpit is object 1.7.6 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285276000007000000.mpit is object 1.8.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285276000007000001.mpit is object 1.8.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285276000007000002.mpit is object 1.8.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285276000007000003.mpit is object 1.8.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285276000007000004.mpit is object 1.8.5 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285276000007000005.mpit is object 1.8.6 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 22 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 22 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 1 seconds
+mpi2prv: Resulting tracefile occupies 9832726 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi8.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 9 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285378000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285378000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285378000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285378000000000003.mpit is object 1.1.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285379000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285379000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285379000001000002.mpit is object 1.2.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285379000001000003.mpit is object 1.2.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285380000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285380000002000001.mpit is object 1.3.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285380000002000002.mpit is object 1.3.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285380000002000003.mpit is object 1.3.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285381000003000000.mpit is object 1.4.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285381000003000001.mpit is object 1.4.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285381000003000002.mpit is object 1.4.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285381000003000003.mpit is object 1.4.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285382000004000000.mpit is object 1.5.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285382000004000001.mpit is object 1.5.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285382000004000002.mpit is object 1.5.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285382000004000003.mpit is object 1.5.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285383000005000000.mpit is object 1.6.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285383000005000001.mpit is object 1.6.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285383000005000002.mpit is object 1.6.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285383000005000003.mpit is object 1.6.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285385000006000000.mpit is object 1.7.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285385000006000001.mpit is object 1.7.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285385000006000002.mpit is object 1.7.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285385000006000003.mpit is object 1.7.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285384000007000000.mpit is object 1.8.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285384000007000001.mpit is object 1.8.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285384000007000002.mpit is object 1.8.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285384000007000003.mpit is object 1.8.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285387000008000000.mpit is object 1.9.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285387000008000001.mpit is object 1.9.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285387000008000002.mpit is object 1.9.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285387000008000003.mpit is object 1.9.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285388000009000000.mpit is object 1.10.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285388000009000001.mpit is object 1.10.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285388000009000002.mpit is object 1.10.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285388000009000003.mpit is object 1.10.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285386000010000000.mpit is object 1.11.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285386000010000001.mpit is object 1.11.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285386000010000002.mpit is object 1.11.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285386000010000003.mpit is object 1.11.4 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285389000011000000.mpit is object 1.12.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285389000011000001.mpit is object 1.12.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285389000011000002.mpit is object 1.12.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285389000011000003.mpit is object 1.12.4 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 1 seconds
+mpi2prv: Resulting tracefile occupies 10995470 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi12.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 10 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285489000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285489000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285489000000000002.mpit is object 1.1.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285491000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285491000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285491000001000002.mpit is object 1.2.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285493000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285493000002000001.mpit is object 1.3.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285493000002000002.mpit is object 1.3.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285492000003000000.mpit is object 1.4.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285492000003000001.mpit is object 1.4.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285492000003000002.mpit is object 1.4.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285494000004000000.mpit is object 1.5.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285494000004000001.mpit is object 1.5.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285494000004000002.mpit is object 1.5.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285496000005000000.mpit is object 1.6.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285496000005000001.mpit is object 1.6.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285496000005000002.mpit is object 1.6.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285495000006000000.mpit is object 1.7.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285495000006000001.mpit is object 1.7.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285495000006000002.mpit is object 1.7.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285497000007000000.mpit is object 1.8.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285497000007000001.mpit is object 1.8.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285497000007000002.mpit is object 1.8.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285498000008000000.mpit is object 1.9.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285498000008000001.mpit is object 1.9.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285498000008000002.mpit is object 1.9.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285499000009000000.mpit is object 1.10.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285499000009000001.mpit is object 1.10.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285499000009000002.mpit is object 1.10.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285500000010000000.mpit is object 1.11.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285500000010000001.mpit is object 1.11.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285500000010000002.mpit is object 1.11.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285501000011000000.mpit is object 1.12.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285501000011000001.mpit is object 1.12.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285501000011000002.mpit is object 1.12.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285503000012000000.mpit is object 1.13.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285503000012000001.mpit is object 1.13.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285503000012000002.mpit is object 1.13.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285504000013000000.mpit is object 1.14.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285504000013000001.mpit is object 1.14.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285504000013000002.mpit is object 1.14.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285502000014000000.mpit is object 1.15.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285502000014000001.mpit is object 1.15.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285502000014000002.mpit is object 1.15.3 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285505000015000000.mpit is object 1.16.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285505000015000001.mpit is object 1.16.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285505000015000002.mpit is object 1.16.3 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 1 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 0 seconds
+mpi2prv: Resulting tracefile occupies 12161241 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi16.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 13 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285608000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285608000000000001.mpit is object 1.1.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285609000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285609000001000001.mpit is object 1.2.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285619000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285619000002000001.mpit is object 1.3.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285616000003000000.mpit is object 1.4.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285616000003000001.mpit is object 1.4.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285610000004000000.mpit is object 1.5.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285610000004000001.mpit is object 1.5.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285613000005000000.mpit is object 1.6.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285613000005000001.mpit is object 1.6.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285611000006000000.mpit is object 1.7.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285611000006000001.mpit is object 1.7.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285615000007000000.mpit is object 1.8.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285615000007000001.mpit is object 1.8.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285617000008000000.mpit is object 1.9.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285617000008000001.mpit is object 1.9.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285614000009000000.mpit is object 1.10.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285614000009000001.mpit is object 1.10.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285618000010000000.mpit is object 1.11.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285618000010000001.mpit is object 1.11.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285620000011000000.mpit is object 1.12.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285620000011000001.mpit is object 1.12.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285622000012000000.mpit is object 1.13.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285622000012000001.mpit is object 1.13.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285623000013000000.mpit is object 1.14.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285623000013000001.mpit is object 1.14.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285624000014000000.mpit is object 1.15.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285624000014000001.mpit is object 1.15.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285626000015000000.mpit is object 1.16.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285626000015000001.mpit is object 1.16.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285621000016000000.mpit is object 1.17.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285621000016000001.mpit is object 1.17.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285631000017000000.mpit is object 1.18.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285631000017000001.mpit is object 1.18.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285630000018000000.mpit is object 1.19.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285630000018000001.mpit is object 1.19.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285625000019000000.mpit is object 1.20.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285625000019000001.mpit is object 1.20.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285628000020000000.mpit is object 1.21.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285628000020000001.mpit is object 1.21.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285627000021000000.mpit is object 1.22.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285627000021000001.mpit is object 1.22.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285629000022000000.mpit is object 1.23.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285629000022000001.mpit is object 1.23.2 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285632000023000000.mpit is object 1.24.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285632000023000001.mpit is object 1.24.2 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 1 seconds
+mpi2prv: Resulting tracefile occupies 14486835 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi24.prv has been generated.
+merger: Output trace format is: Paraver
+merger: Extrae 3.5.2
+mpi2prv: Assigned nodes < s13r1b71 >
+mpi2prv: Assigned size per processor < 23 Mbytes >
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285762000000000000.mpit is object 1.1.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285761000001000000.mpit is object 1.2.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285749000002000000.mpit is object 1.3.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285751000003000000.mpit is object 1.4.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285754000004000000.mpit is object 1.5.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285765000005000000.mpit is object 1.6.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285755000006000000.mpit is object 1.7.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285756000007000000.mpit is object 1.8.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285757000008000000.mpit is object 1.9.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285758000009000000.mpit is object 1.10.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285759000010000000.mpit is object 1.11.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285760000011000000.mpit is object 1.12.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285766000012000000.mpit is object 1.13.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285764000013000000.mpit is object 1.14.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285763000014000000.mpit is object 1.15.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285774000015000000.mpit is object 1.16.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285767000016000000.mpit is object 1.17.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285768000017000000.mpit is object 1.18.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285769000018000000.mpit is object 1.19.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285770000019000000.mpit is object 1.20.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285771000020000000.mpit is object 1.21.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285773000021000000.mpit is object 1.22.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285780000022000000.mpit is object 1.23.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285781000023000000.mpit is object 1.24.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285794000024000000.mpit is object 1.25.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285776000025000000.mpit is object 1.26.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285772000026000000.mpit is object 1.27.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285784000027000000.mpit is object 1.28.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285779000028000000.mpit is object 1.29.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285792000029000000.mpit is object 1.30.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285789000030000000.mpit is object 1.31.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285785000031000000.mpit is object 1.32.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285790000032000000.mpit is object 1.33.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285795000033000000.mpit is object 1.34.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285782000034000000.mpit is object 1.35.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285775000035000000.mpit is object 1.36.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285793000036000000.mpit is object 1.37.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285800000037000000.mpit is object 1.38.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285798000038000000.mpit is object 1.39.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285777000039000000.mpit is object 1.40.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285799000040000000.mpit is object 1.41.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285787000041000000.mpit is object 1.42.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285783000042000000.mpit is object 1.43.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285797000043000000.mpit is object 1.44.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285788000044000000.mpit is object 1.45.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285791000045000000.mpit is object 1.46.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285796000046000000.mpit is object 1.47.1 on node s13r1b71 assigned to processor 0
+mpi2prv: File /gpfs/home/bsc15/bsc15982/nest-simulator/change/nest/set-0/TRACE@s13r1b71.0000285801000047000000.mpit is object 1.48.1 on node s13r1b71 assigned to processor 0
+mpi2prv: Time synchronization has been turned off
+mpi2prv: A total of 11 symbols were imported from TRACE.sym file
+mpi2prv: 0 function symbols imported
+mpi2prv: 11 HWC counter descriptions imported
+mpi2prv: Checking for target directory existance... exists, ok!
+mpi2prv: Selected output trace format is Paraver
+mpi2prv: Stored trace format is Paraver
+mpi2prv: Searching synchronization points... done
+mpi2prv: Time Synchronization disabled.
+mpi2prv: Circular buffer enabled at tracing time? NO
+mpi2prv: Parsing intermediate files
+mpi2prv: Progress 1 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Processor 0 succeeded to translate its assigned files
+mpi2prv: Elapsed time translating files: 0 hours 0 minutes 0 seconds
+mpi2prv: Elapsed time sorting addresses: 0 hours 0 minutes 0 seconds
+mpi2prv: Generating tracefile (intermediate buffers of 139808 events)
+         This process can take a while. Please, be patient.
+mpi2prv: Progress 2 of 2 ... 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% done
+mpi2prv: Elapsed time merge step: 0 hours 0 minutes 2 seconds
+mpi2prv: Resulting tracefile occupies 21405558 bytes
+mpi2prv: Removing temporal files... done
+mpi2prv: Elapsed time removing temporal files: 0 hours 0 minutes 0 seconds
+mpi2prv: Congratulations! node4_mpi48.prv has been generated.

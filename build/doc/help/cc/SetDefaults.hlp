@@ -1,0 +1,24 @@
+Name: SetDefaults - Set the default values for a node or synapse model.
+
+Synopsis:
+
+/modelname dict SetDefaults ->	-
+
+
+Author:
+
+Jochen Martin Eppler
+
+
+FirstVersion:
+
+September 2008
+
+
+SeeAlso:
+
+GetDefaults
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/nestkernel/nestmodule.cpp

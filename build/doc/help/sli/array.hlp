@@ -1,0 +1,22 @@
+Name: array - construct array with n zeros (PS)
+
+Synopsis:
+
+int array -> array
+
+
+Examples:
+
+10 array ->[0 0 0 0 0 0 0 0 0 0]
+
+
+SeeAlso:
+
+Range
+LayoutArray
+Table
+arraystore
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/lib/sli/ps-lib.sli

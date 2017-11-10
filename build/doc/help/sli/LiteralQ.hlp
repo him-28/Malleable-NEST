@@ -1,0 +1,11 @@
+Name: LiteralQ - returns true if top object is a literal
+
+SeeAlso:
+
+NumberQ
+ArrayQ
+StringQ
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/lib/sli/mathematica.sli

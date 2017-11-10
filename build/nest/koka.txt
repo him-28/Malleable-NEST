@@ -1,0 +1,10 @@
+2 14.44 # sim_time
+1 12.82 # sim_time
+ 1 12.22 # sim_time
+2 12.3 # sim_time
+4 12.96 # sim_time
+0 12.4 # sim_time
+1 11.57 # sim_time
+1 12.33 # sim_time
+4 11.85 # sim_time
+4 11.85 # sim_time

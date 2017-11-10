@@ -1,0 +1,21 @@
+Name: ostrstream - Create a string-stream object.
+
+Synopsis:
+
+ostrstream -> ostreamhandle true 
+-> false
+
+
+Description:
+
+Obsolete, use osstream instead.
+
+
+SeeAlso:
+
+str
+osstream
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/sli_io.cc

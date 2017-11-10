@@ -1,0 +1,9 @@
+Name: gap_junction - Connection model for gap junctions.
+
+SeeAlso:
+
+synapsedict
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/models/modelsmodule.cpp

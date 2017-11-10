@@ -1,0 +1,16 @@
+Name: token_is - read a token from an input stream 
+ Synopsis:  istream token_is -> istream any true 
+ istream false
+
+References:
+
+The Red Book
+
+
+SeeAlso:
+
+token
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/slicontrol.cc

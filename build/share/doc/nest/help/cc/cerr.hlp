@@ -1,0 +1,21 @@
+Name: cerr - Standard error output stream
+
+Synopsis:
+
+cerr -> ostream
+
+
+Description:
+
+cerr corresponds to the C++ object with the 
+same name.
+
+
+SeeAlso:
+
+cin
+cout
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/sli/sli_io.cc

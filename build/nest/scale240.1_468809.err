@@ -1,0 +1,1203 @@
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: WARNING! omp_get_thread_num_real is a NULL pointer. Did the initialization of this module trigger? Retrying initialization...
+Extrae: Error! Hardware counter PAPI_FP_INS (0x80000034) is not available. Check set 2.
+1 1806500 # virt_mem_0
+0 1806500 # virt_mem_0
+2 1806500 # virt_mem_0
+3 1806500 # virt_mem_0
+4 1806500 # virt_mem_0
+1 1821992 # virt_mem_after_nodes
+1 0.09 # build_time_nodes
+2 1821992 # virt_mem_after_nodes
+2 0.07 # build_time_nodes
+0 1821992 # virt_mem_after_nodes
+0 0.07 # build_time_nodes
+3 1821992 # virt_mem_after_nodes
+3 0.07 # build_time_nodes
+4 1821992 # virt_mem_after_nodes
+4 0.07 # build_time_nodes
+2 15.5 # build_edge_time 
+2 2684228 # virt_mem_after_edges
+3 15.6 # build_edge_time 
+3 2684228 # virt_mem_after_edges
+1 15.63 # build_edge_time 
+1 2684228 # virt_mem_after_edges
+0 15.63 # build_edge_time 
+0 2683988 # virt_mem_after_edges
+4 15.73 # build_edge_time 
+4 2684360 # virt_mem_after_edges
+4 2684648 # virt_mem_after_presim
+4 1.67 # presim_time
+2 2684492 # virt_mem_after_presim
+2 1.92 # presim_time
+0 2684128 # virt_mem_after_presim
+0 1.79 # presim_time
+1 2684512 # virt_mem_after_presim
+1 1.79 # presim_time
+3 2684508 # virt_mem_after_presim
+3 1.81 # presim_time
+4 2684648 # virt_mem_after_sim
+4 11.51 # sim_time
+4 410.688 # average rate
+1 2684512 # virt_mem_after_sim
+1 11.52 # sim_time
+1 417.6 # average rate
+2 2684492 # virt_mem_after_sim
+2 11.52 # sim_time
+0 2684128 # virt_mem_after_sim
+0 11.52 # sim_time
+0 429.312 # average rate
+2 434.688 # average rate
+3 2684508 # virt_mem_after_sim
+3 11.52 # sim_time
+3 423.168 # average rate
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.98
+	System time (seconds): 0.73
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 969952
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 229530
+	Voluntary context switches: 7098
+	Involuntary context switches: 250
+	Swaps: 0
+	File system inputs: 288
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.93
+	System time (seconds): 0.84
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 967184
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229370
+	Voluntary context switches: 6072
+	Involuntary context switches: 245
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.87
+	System time (seconds): 0.89
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965992
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228601
+	Voluntary context switches: 5796
+	Involuntary context switches: 289
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.97
+	System time (seconds): 0.84
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228733
+	Voluntary context switches: 5709
+	Involuntary context switches: 841
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.03
+	System time (seconds): 0.82
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 969800
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229457
+	Voluntary context switches: 5686
+	Involuntary context switches: 86
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.07
+	System time (seconds): 0.75
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965932
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 228568
+	Voluntary context switches: 7823
+	Involuntary context switches: 158
+	Swaps: 0
+	File system inputs: 40
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.89
+	System time (seconds): 0.84
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 970048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228999
+	Voluntary context switches: 5689
+	Involuntary context switches: 253
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.04
+	System time (seconds): 0.78
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229286
+	Voluntary context switches: 7110
+	Involuntary context switches: 137
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.97
+	System time (seconds): 0.85
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966596
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229294
+	Voluntary context switches: 6580
+	Involuntary context switches: 221
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.04
+	System time (seconds): 0.76
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965616
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228950
+	Voluntary context switches: 6411
+	Involuntary context switches: 105
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.02
+	System time (seconds): 0.83
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966500
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229238
+	Voluntary context switches: 7599
+	Involuntary context switches: 194
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.06
+	System time (seconds): 0.80
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966932
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228812
+	Voluntary context switches: 7039
+	Involuntary context switches: 159
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.90
+	System time (seconds): 0.86
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966612
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229280
+	Voluntary context switches: 5645
+	Involuntary context switches: 322
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	S	Command being tignals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+imed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.96
+	System time (seconds): 0.91
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966204
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229279
+	Voluntary context switches: 7520
+	Involuntary context switches: 124
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.97
+	System time (seconds): 0.87
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966380
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228649
+	Voluntary context switches: 5930
+	Involuntary context switches: 230
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.07
+	System time (seconds): 0.80
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965776
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228507
+	Voluntary context switches: 7334
+	Involuntary context switches: 55
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.95
+	System time (seconds): 0.87
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965484
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228417
+	Voluntary context switches: 6852
+	Involuntary context switches: 439
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.02
+	System time (seconds): 0.83
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 969892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229535
+	Voluntary context switches: 6368
+	Involuntary context switches: 84
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.89
+	System time (seconds): 0.96
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 964008
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 236462
+	Voluntary context switches: 5974
+	Involuntary context switches: 178
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 69032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.02
+	System time (seconds): 0.86
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229059
+	Voluntary context switches: 5988
+	Involuntary context switches: 105
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.03
+	System time (seconds): 0.82
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 969884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229526
+	Voluntary context switches: 6530
+	Involuntary context switches: 185
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.12
+	System time (seconds): 0.75
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 970428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229206
+	Voluntary context switches: 6229
+	Involuntary context switches: 121
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.03
+	System time (seconds): 0.82
+	Percent o31.98
+	System time (seconds): 0.88
+	Percent of CPU this job gotf CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:s: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.59
+	Averages): 0:33.60
+	Average shared text size (kbytes): 0
+	Average u shared text size (kbytes): 0
+	Average unshared data sinshared data size (kbytes): 0
+	Average stack size (kbytes)ze (kbytes): 0
+	Average stack size (kbytes): 0
+	Average t: 0
+	Average total size (kbytes): 0
+	Maximum resident set siotal size (kbytes): 0
+	Maximum resident set size (kbytes): 965804ze (kbytes): 966392
+	Average resident set size (kbytes): 0
+	Maj
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) por (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) pageage faults: 0
+	Minor (reclaiming a frame) page faults: 229188
+	V faults: 229282
+	Voluntary context switches: 6746
+	Involuntary contoluntary context switches: 6474
+	Involuntary context switches:ext switches: 130
+	Swaps: 0
+	File system inputs: 0
+	File sys 340
+	Swaps: 0
+	File system inputs: 0
+	File system outputs:tem outputs: 4072
+	Socket messages sent: 0
+	Socket messag 4072
+	Socket messages sent: 0
+	Socket messages received: es received: 0
+	Signals delivered: 0
+	Page size (bytes): 40960
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status
+	Exit status: 0
+: 0
+	Command being tim	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): ed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.93
+	System time (second31.96
+	System time (seconds): 0.80
+	Percent s): 0.84
+	Percent of CPU this job got: 97%
+	Elapsed (wall cof CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss olock) time (h:mm:ss or m:ss): 0:33.60
+	Average shared texr m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	At size (kbytes): 0
+	Average unshared data size (kverage unshared data size (kbytes): 0
+	Average stack sizbytes): 0
+	Average stack size (kbytes): 0
+	Average e (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum rtotal size (kbytes): 0
+	Maximum resident set size (kbesident set size (kbytes): 969964
+	Average resident set siz	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): ytes): 965212
+	Average resident set size (kbytes): 0
+	Major (requiring e (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming aI/O) page faults: 0
+	Minor (reclaiming a frame) page fa frame) page faults: 229549
+	Voluntary context switches: 6650
+	Inv32.02
+	System time (seconds): 0.83
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+ults: 229561
+	Voluntary context switches: 7304
+	Involuntary context switches: 198
+	Soluntary context switches: 231
+	Swaps: 0
+	File system inputs: 0
+	File system	Average shared text size (kbytes): 0
+	Average unshared data size (kbywaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket me outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals dtes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maxissages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page sizeelivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+mum resident set size (kbytes): 970264
+	Average resident set size (kbyt (bytes): 4096
+	Exit status: 0
+es): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229610
+	Voluntary context switches: 6331
+	Involuntary context switches: 448
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals de	Command being timed: "./nest livered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+hpc_benchmark240.sli"
+	User time (seconds): 32.04
+	System time (seconds): 0.82
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 963968
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229730
+	Voluntary context switches: 5737
+	Involuntary context switches: 159
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.97
+	System time (seconds): 0.85
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 967156
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228858
+	Voluntary context switches: 5993
+	Involuntary context switches: 279
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.95
+	System time (seconds): 0.87
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965468
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229046
+	Voluntary context switches: 5823
+	Involuntary context switches: 252
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.87
+	System time (seconds): 0.86
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 975392
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 241404
+	Voluntary context switches: 7186
+	Involuntary context switches: 547
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 69024
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.99
+	System time (seconds): 0.83
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 969788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228989
+	Voluntary context switches: 5922
+	Involuntary context switches: 138
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.88
+	System time (seconds): 0.89
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident	Command being timed: "./nest hpc_benchmark240.sli"
+ set size (kbytes): 968256
+	Average resident set size (kbyte	User time (seconds): s): 0
+	Major (requiring I/O) page faults: 0
+	Mi31.98
+	System time (seconds): 0.81
+	Percent of CPU thnor (reclaiming a frame) page faults:is job got: 97%
+	Elapsed (wall 229189
+	Voluntary context swit clock) time (h:mm:ss or m:ss)ches: 5890
+	Involuntary cont: 0:33.56
+	Average shared text sizeext switches: 140
+	Swaps: 0
+ (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average sta	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+ck size (kbytes): 0
+	Average total size (kbytes)	Socket messages received: 0
+	Signals delivere: 0
+	Maximum resident set size (kbytes): 969504
+	Averad: 0
+	Page size (bytes): 4096
+	Exit status: 0
+ge resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229416
+	Voluntary context switches: 5553
+	Involuntary context switches: 382
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.02
+	System time (seconds): 0.86
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229278
+	Voluntary context switches: 5211
+	Involuntary context switches: 216
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.00
+	System time (seconds): 0.87
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228687
+	Voluntary context switches: 5726
+	Involuntary context switches: 72
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.93
+	System time (seconds): 0.82
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 964876
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229380
+	Voluntary context switches: 5817
+	Involuntary context switches: 246
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.02
+	System time (seconds): 0.84
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 970124
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228975
+	Voluntary context switches: 6193
+	Involuntary context switches: 226
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.97
+	System time (seconds): 0.78
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 965312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229490
+	Voluntary context switches: 5621
+	Involuntary context switches: 301
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.91
+	System time (seconds): 0.80
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 964916
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229412
+	Voluntary context switches: 5733
+	Involuntary context switches: 147
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.79
+	System time (seconds): 0.99
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 966908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 235551
+	Voluntary context switches: 6491
+	Involuntary context switches: 223
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 69032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 32.01
+	System time (seconds): 0.83
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 970604
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229151
+	Voluntary context switches: 5971
+	Involuntary context switches: 130
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.96
+	System time (seconds): 0.89
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kby	Command being tes): 0
+	Maximum resident set size (kbytes): 965876timed: "./nest hpc_benchmark240.sli"
+	User time
+	Average resident set size (kbytes): 0
+	Ma (seconds): jor (requiring I/O) page faults: 0
+	Mi31.92
+	System time (seconds):nor (reclaiming a frame) page faults: 228466
+ 0.93
+	Percent of CPU this job got: 97%
+		Voluntary context switches: 8572
+	Involunt	CElapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Averagary context switches: 121
+	Swaps: 0
+	File system inputs:ommand being timed: "./nest hpc_benchmark240.sli"
+	User timee shared text size (kbytes): 0
+	Average unshared data 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	 (seconds):  size (kbytes): 0
+	Average stack size (kbytes): 0
+Socket messages received: 0
+	Signals deliv32.02
+	System time (seconds): 	Average total size (kbytesered: 0
+	Page size (bytes):0.80
+	Percent of CPU this j): 0
+	Maximum resident set size (kbytes): 966880
+	Average 4096
+	Exit status: 0
+ob got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Averag resident set size (kbytes): 0
+	Major (requiring I/Oe shared text size (kbytes): 0
+	Aver) page faults: 0
+	Minor (reclaiming a fage unshared data size (kbytes): 0
+	Arame) page faults: 229321
+	Voluntary contexverage stack size (kbytes): 0
+	Averagt switches: 5917
+	Involuntary context switche total size (kbytes): 0
+	Maximum rees: 278
+	Swaps: 0
+	File system inputs: 0
+	Fsident set size (kbytes): 964088
+	Average reile system outputs: 4072
+	Socket messages sensident set size (kbytes): 0
+	Major (requit: 0
+	Socket messages received: 0
+	Signring I/O) page faults: 0
+	Minor (reclaimials delivered: 0
+	Page size (byng a frame) page fautes): 4096
+	Exit status:lts: 229200
+	Voluntary con 0
+text switches: 5904
+	Involuntary context switches: 178
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.97
+	System time (seconds): 0.80
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h	Command being timed: "./nest hpc_benchmark240.sli"
+	U:mm:ss or m:ss): 0:33.58
+	Average shared text size (kbser time (seconds): ytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size31.93
+	System time (seconds): 0.84
+	Percent of CPU t (kbytes): 0
+	Average total size (khis job got: 97%
+	Elapsed (wall clockbytes): 0
+	Maximum resident set si) time (h:mm:ss or m:ss): 0:33.57
+	Averaze (kbytes): 965876
+	Average resident setge shared text size (kbytes): 0
+	A size (kbytes): 0
+	Major (requiring I/verage unshared data size (kbytes): 0
+	AvO) page faults: 0
+	Minor (reclaiming erage stack size (kbytes): 0
+	Average a frame) page faults: 229049
+	Voluntary conttotal size (kbytes): 0
+	Maximum residenext switches: 8292
+	Involuntary context swt set size (kbytes): 965088
+	Average resident seitches: 205
+	Swaps: 0
+	File system inputst size (kbytes): 0
+	Major: 0
+	File system (requiring I/O) pa outputs: 4072
+	Socge faults: 0
+	Minor (reclaiming a frame) page faultket messages sent: 0
+	Socket messages received: 0
+	Signalss: 229520
+	Voluntary context switches: 5580
+ delivered: 0
+	Page size (bytes): 4096
+		Involuntary context switches: 151
+	Exit status: 0
+Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "./nest hpc_benchmark240.sli"
+	User time (seconds): 31.98
+	System time (seconds): 0.82
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 967048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228796
+	Voluntary context switches: 5433
+	Involuntary context switches: 151
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 4072
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

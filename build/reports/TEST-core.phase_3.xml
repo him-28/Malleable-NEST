@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures=XXX hostname="login1" name="core.phase_3" tests=XXX time=XXX timestamp="2017-09-18T08:22:35+00:00">
+  <properties>
+    <property name="os.arch" value="x86_64" />
+    <property name="os.name" value="Linux" />
+    <property name="os.version" value="4.4.59-92.20-default" />
+    <property name="user.home" value="/home/bsc15/bsc15982" />
+    <property name="user.name" value="bsc15982" />
+  </properties>
+  <testcase classname="core.unittests" name="issue-463.sli" time="0.705678" />
+  <testcase classname="core.unittests" name="issue-565.sli" time="4.67035">
+    <failure message="1 (Failed: missed SLI assertion)" type=""><![CDATA[
+Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/unittests/issue-565.sli
+[INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.9.18 10:22:36 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+NEST v2.12.0 (C) 2004 The NEST Initiative
+
+Sep 18 10:22:36 ModelManager::clear_models_ [Info]: 
+    Models will be cleared and parameters reset.
+
+Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+Trying to set num threads: 1
+
+Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+    Deleting existing random number generators
+
+Sep 18 10:22:36 Network::create_rngs_ [Info]: 
+    Creating default RNGs
+
+Sep 18 10:22:36 Network::create_grng_ [Info]: 
+    Creating new default global RNG
+terminate called after throwing an instance of 'std::out_of_range'
+terminate called recursively
+terminate called recursively
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 332214 RUNNING AT login1
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 332214 RUNNING AT login1
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+   Intel(R) MPI Library troubleshooting guide:
+      https://software.intel.com/node/561764
+===================================================================================
+]]></failure>
+  </testcase>
+  <testcase classname="core.unittests" name="test_add_freeze_thaw.sli" time="2.07406">
+    <failure message="6 (Failed: unexpected exit code 6)" type=""><![CDATA[
+Running  mpirun -np 1 /home/bsc15/bsc15982/nest-simulator/change/bin/nest /home/bsc15/bsc15982/nest-simulator/change/share/doc/nest/unittests/test_add_freeze_thaw.sli
+[INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+Trying to set num threads: 1
+[INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:221 @ Network::create_rngs_] : Deleting existing random number generators
+[INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:226 @ Network::create_rngs_] : Creating default RNGs
+[INFO] [2017.9.18 10:22:40 /home/bsc15/bsc15982/nest-simulator/nestkernel/rng_manager.cpp:272 @ Network::create_grng_] : Creating new default global RNG
+NEST v2.12.0 (C) 2004 The NEST Initiative
+Trying to set num threads: 1
+Trying to set num threads: 4
+terminate called after throwing an instance of 'terminate called recursively
+std::out_of_range'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 332643 RUNNING AT login1
+=   EXIT CODE: 6
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 332643 RUNNING AT login1
+=   EXIT CODE: 6
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+   Intel(R) MPI Library troubleshooting guide:
+      https://software.intel.com/node/561764
+===================================================================================
+]]></failure>
+  </testcase>

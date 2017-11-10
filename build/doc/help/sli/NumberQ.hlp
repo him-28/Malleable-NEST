@@ -1,0 +1,20 @@
+Name: NumberQ - returns true if top object is a number (int or double)
+
+Synopsis:
+
+int   NumberQ -> true 
+double NumberQ -> true 
+any   NumberQ -> false
+
+
+SeeAlso:
+
+IntegerQ
+DoubleQ
+LiteralQ
+ArrayQ
+StringQ
+
+Source:
+
+/home/bsc15/bsc15982/nest-simulator/lib/sli/mathematica.sli
